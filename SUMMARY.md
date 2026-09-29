@@ -9,7 +9,8 @@
   * [Gestão contínua de posicionamento](posicionamento/gestao-continua.md)
 * Tráfego pago
   * [Metodologia do case Raquel](trafego/metodologia-case-raquel.md)
-  * [Otimização de campanhas](trafego/otimizacao-de-campanhas.md)
+  * [Manual de otimizações](trafego/manual-de-otimizacoes.md)
+  * [Playbook de otimização de campanha](trafego/playbook-de-otimizacao-de-campanha.md)
 * Produção
   * [Playbook do design](producao/playbook-do-design.md)
   * [Playbook do editor de vídeo](producao/playbook-editor-de-video.md)

@@ -1,109 +1,1102 @@
-# Playbook do design
+# Playbook do Design
 
-Rotina do designer gráfico da GREAT, desde a chegada do briefing até a entrega da arte. O padrão do PDF é **2 a 3 artes por semana** para cada cliente cujo plano inclui criação de conteúdo.
+{% hint style="info" %}
+**Transcrição integral:** `Playbook_do_Design_Completo (2).pdf`. O conteúdo abaixo mantém a ordem das páginas e o texto completo extraído do PDF. A imagem de cada página preserva tabelas, diagramas, capturas de tela e demais elementos visuais do original.
+{% endhint %}
 
-## Responsabilidades e entrada da demanda
+## Página 1
 
-1. O Comercial cria o grupo de WhatsApp do cliente e adiciona o gestor de onboarding.
-2. O gestor adiciona a equipe conforme o plano; o designer participa quando há criação de conteúdo.
-3. O cliente preenche o briefing na reunião de onboarding com **objetivo da arte**, **referências visuais/imagens** e **texto/copy**. O gestor confere o preenchimento ainda na reunião.
-4. O designer produz com base no briefing. Solicita imagens de antes e depois do cliente no grupo; se não houver, verifica autorização para usar material da internet. Quando antes e depois não for possível, o PDF prevê imagem da internet ou gerada por IA.
-5. O líder de estratégias aprova internamente ou devolve para ajuste. Só então a arte segue ao cliente.
-6. Após aprovação do cliente, a arte vai para a Plataforma GREAT se for anúncio, ou para o gestor responsável se for conteúdo do perfil, conforme o destino descrito abaixo.
+![Página 1 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-01.jpg)
 
-## Acessar o briefing na Plataforma GREAT
+<details>
+<summary>Transcrição textual da página</summary>
 
-1. Entrar na plataforma, partindo da tela **Meu Dia**.
-2. Abrir **CRM Operacional** pelo menu lateral.
-3. Selecionar o cliente e localizar **Arquivos** na ficha.
-4. Abrir o PDF do briefing. Ele é preenchido pelo cliente e conferido pelo gestor de onboarding na reunião de Start; inclui dados da empresa, responsável, endereço e acessos relevantes.
+```text
+PLAYBOOK DO
+   DESIGN
+```
 
-## Aprovação da arte
+</details>
 
-1. Enviar a peça ao **líder de estratégias**. Se pedir ajuste, corrigir e reenviar para nova revisão interna.
-2. Com aprovação interna, enviar ao grupo do cliente e solicitar aprovação.
-3. Se o cliente pedir ajuste, corrigir, passar **novamente pelo líder** e reenviar ao cliente. Ao cobrar uma aprovação parada, mencionar o cliente no grupo.
-4. Se o cliente aprovar, registrar o status e encaminhar ao destino. Se rejeitar a peça definitivamente ou pedir outra peça, registrar reprovação definitiva.
+## Página 2
 
-### Destino final
+![Página 2 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-02.jpg)
 
-| Uso | Entrega |
-| --- | --- |
-| Tráfego pago | Designer cadastra a arte aprovada na Plataforma GREAT. O gestor a consulta e publica no Gerenciador de Anúncios da Meta. |
-| Instagram do cliente | Se o gestor solicitou peça específica para o perfil, o designer envia no WhatsApp privado desse gestor para publicação; se o cliente já informou que publicará, seguir essa indicação. A arte não sobe na Plataforma GREAT. |
+<details>
+<summary>Transcrição textual da página</summary>
 
-O destino também pode ser sinalizado pela aba **Meu Dia** ou pessoalmente ao gestor.
+```text
+  O que você vai aprender
 
-### Subir um criativo aprovado
 
-1. Abrir **CRM Operacional** e a ficha do cliente.
-2. No card **Criativos**, localizar “Anúncios para Subir” e “Anúncios Ativos”.
-3. Selecionar **Adicionar Criativo**.
-4. Em **Responsável pela Arte**, escolher o próprio nome.
-5. Anexar o arquivo final aprovado.
-6. Clicar **Enviar**. O arquivo aparece em “Anúncios para Subir” com autoria e data/hora.
+Este playbook reúne, em um só lugar, tudo o que o designer gráfico da GREAT
+precisa saber para atuar no dia a dia da agência: como o briefing chega até ele,
+como produzir e aprovar cada arte, como subir os criativos na plataforma e qual é
+a rotina diária esperada — sempre respeitando o ritmo fixo de 2 a 3 artes por
+cliente por semana, sem exceção.
 
-Somente especialistas de produção adicionam criativos; o gestor de tráfego consulta os aprovados e indica a publicação do anúncio na Meta.
+    1    Responsabilidades do Designer Gráfico
+         O papel do design dentro da operação da Assessoria GREAT.
 
-## Planilha de controle de produção
+           Acessar documento →
 
-A planilha **Controle - Design e Vídeo** registra cliente, quantidade entregue, meta e status de cada peça. Há abas **Dashboard** e **Instruções** para o coordenador; **Design** para o designer; e abas dos editores **Amanda** e **André**. Cada profissional edita a própria aba; o coordenador tem acesso ao conjunto. O documento visual também menciona aba de roteiros da Amanda.
 
-Cada aba de produção contém mês de referência, clientes na coluna B agrupados por gestor de conta, blocos das semanas 1 a 5 com dias úteis e total semanal, além de total mensal. A estrela no total semanal sinaliza alcance da meta de volume; ela é separada do status de aprovação.
+    2    Como Acessar o Briefing na Plataforma GREAT
+         Passo a passo para encontrar o briefing de cada cliente na plataforma.
 
-| Cor | Status |
-| --- | --- |
-| Branco | Ainda será produzida ou está em produção. |
-| Azul | Aguardando aprovação interna do líder de estratégias. |
-| Amarelo | Aguardando aprovação do cliente; permanece amarelo durante ajustes para reenvio. |
-| Verde | Aprovada pelo cliente. |
-| Vermelho | Reprovada definitivamente pelo cliente; não se trata de simples ajuste. |
+           Acessar documento →
 
-> A planilha aparece nas páginas 19–23 do PDF como páginas em imagem. Sua estrutura e legenda foram lidas visualmente e transcritas. O endereço longo de acesso exibido na imagem não foi copiado, para evitar um link incorreto.
+    3    Como Subir um Criativo na Plataforma GREAT
+         Tutorial passo a passo de como o designer sobe o criativo na plataforma.
 
-## Rotina diária
+           Acessar documento →
 
-1. Participar da **daily** no início do expediente e revisar entregas, pendências, refações e prioridades.
-2. Conferir as artes do dia anterior: cobrar o líder por aprovação interna, mencionar o cliente para aprovação externa ou encaminhar as já aprovadas, inclusive fora do expediente.
-3. Produzir as artes do dia pelos briefings, observando a meta de 2 a 3 por cliente na semana e os avisos dos gestores sobre clientes ainda sem entrega naquela semana.
-4. Ao concluir cada peça, cumprir o ciclo de aprovação interna e depois externa.
-5. Enviar a arte aprovada ao destino correspondente.
-6. Atualizar a planilha durante o dia com cliente, quantidade e cor de status.
 
-## Copy e Canva
+    4    Planilha de Controle de Produção
+         Como o designer registra e acompanha as artes da semana.
 
-O PDF instrui gerar uma proposta de copy no ChatGPT antes de cada arte, adaptando o procedimento do cliente. O modelo pede estes blocos:
+           Acessar documento →
 
-1. **Título forte:** chamada principal de impacto e curiosidade.
-2. **Subtítulo:** promessa clara e benefício direto.
-3. **Frases com gatilho emocional:** dor, desejo, urgência ou provocação.
-4. **Copy persuasiva:** dor → solução → transformação.
-5. **Benefícios:** resultado, autoestima/qualidade de vida, praticidade e diferenciais.
-6. **Características técnicas:** segurança, tecnologia, profissional e personalização, quando sustentadas pelo briefing.
-7. **CTA forte:** chamada final para ação.
 
-O designer usa esses blocos conforme o espaço e o tema da peça. O acesso ao Canva indicado no PDF é [canva.link/fpc3428qzsqae4q](https://canva.link/fpc3428qzsqae4q).
+    5    Fluxo até a Demanda Chegar no Designer
+         Da formação do grupo do cliente ao briefing que orienta a produção.
 
-### Modelo de solicitação de copy do documento
+           Acessar documento →
 
-O prompt apresentado no PDF especifica o seguinte conteúdo para cada bloco; o tema deve ser ajustado ao procedimento do cliente:
+    6    Sistema de Aprovação da Arte
+         Da aprovação interna à aprovação do cliente, e o que vem depois.
 
-> **Título forte:** chamada principal impactante que interrompa a rolagem e gere curiosidade imediata.
->
-> **Subtítulo:** complemento do título com promessa clara e benefício direto.
->
-> **Frases agressivas com gatilho emocional:** frases curtas ligadas à dor ou ao desejo, urgência ou medo de perder, confronto ou provocação.
->
-> **Copy persuasiva estratégica:** parágrafo de conversão no encadeamento dor → solução → transformação, em linguagem emocional e direta.
->
-> **Benefícios:** benefício principal; resultado percebido; autoestima/qualidade de vida; solução prática; diferencial competitivo.
->
-> **Características técnicas:** segurança do procedimento, tecnologia, especialização profissional, atendimento personalizado e resultados naturais.
->
-> **CTA forte:** chamada final com ação, urgência ou escassez. O PDF dá como exemplos convite a agendar, clicar para falar e menção a vagas disponíveis.
+           Acessar documento →
 
-As características, promessas e condições de oferta da peça devem refletir o briefing do cliente; o modelo acima descreve a estrutura da copy, não comprova afirmações sobre um procedimento específico.
 
-## Fonte
+    7    Rotina Diária do Designer
+         O que fazer, quando fazer e como fazer.
 
-*Playbook_do_Design_Completo (2).pdf*, 35 páginas. O documento reúne oito partes: responsabilidades, acesso ao briefing, upload de criativos, planilha, fluxo da demanda, aprovações, rotina e recursos de copy/Canva.
+           Acessar documento →
+
+
+                            Assessoria GREAT · Índice · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 3
+
+![Página 3 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-03.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+8     Copy e Canva: Recursos do Designer
+      O prompt para gerar a copy no ChatGPT e o link de acesso ao Canva.
+
+        Acessar documento →
+
+
+                          Assessoria GREAT · Índice · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 4
+
+![Página 4 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-04.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+DOCUMENTO 1
+
+
+   RESPONSABILIDADES DO
+      DESIGNER GRÁFICO
+```
+
+</details>
+
+## Página 5
+
+![Página 5 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-05.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+  O papel do design na GREAT
+
+
+O designer gráfico é a peça que transforma briefing em material pronto para uso
+— seja para campanhas de tráfego pago, seja para o Instagram do próprio cliente.
+É o setor que entrega, literalmente todos os dias, o produto visual que sustenta o
+resultado de cada conta da agência.
+
+
+   Regra fixa de ritmo
+   Todo cliente da GREAT que tiver criação de conteúdo no plano recebe de 2 a 3
+   artes por semana, sem exceção. Esse ritmo não varia por tamanho de conta, tipo
+   de clínica ou momento de campanha — é um padrão mínimo de entrega da
+   agência.
+
+
+  Onde o design entra no fluxo da agência
+
+
+O trabalho do designer não começa do zero a cada arte — ele é a etapa central de um
+fluxo maior, que passa por outras equipes antes e depois dele:
+
+
+  Comercial cria o grupo do cliente e adiciona o gestor de onboarding
+
+                                                   ↓
+
+
+  Gestor de onboarding adiciona o designer ao grupo (se o plano incluir conteúdo) e
+  confere o briefing preenchido pelo cliente
+
+                                                   ↓
+
+
+  Designer produz a arte com base no briefing — solicita imagens de “antes e
+  depois” ao cliente dentro do grupo. Se o cliente tiver, usa como referência. Se não
+  tiver, verifica se pode usar imagens da internet. Caso não seja possível usar “antes
+  e depois”, cria a arte com imagem da internet ou gerada por IA
+
+                                                   ↓
+
+
+  Líder de estratégias aprova internamente (ou devolve para ajuste)
+
+                                                   ↓
+
+
+                Assessoria GREAT · Responsabilidades do Designer · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 6
+
+![Página 6 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-06.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+  Cliente aprova no grupo (ou pede ajuste, retornando à aprovação interna)
+
+                                                  ↓
+
+
+  Designer sobe o criativo na plataforma GREAT (quando for para tráfego pago) ou
+  envia no WhatsApp privado do gestor responsável (quando for para o Instagram do
+  cliente) e sinaliza o destino
+
+
+Cada uma dessas etapas é detalhada nos documentos seguintes deste playbook.
+
+
+  Documentos complementares deste Playbook
+
+
+Este é o primeiro de oito documentos que compõem o Playbook do Design. Os outros
+sete detalham, passo a passo, cada parte do fluxo resumido acima:
+
+ 2     Como Acessar o Briefing na Plataforma GREAT
+       Passo a passo para encontrar o briefing de cada cliente na plataforma.
+
+ 3     Como Subir um Criativo na Plataforma GREAT
+       Passo a passo de como o designer cadastra a arte aprovada na ficha do cliente.
+
+ 4     Planilha de Controle de Produção
+       Como o designer registra, por cliente e por dia, a quantidade e o status de cada
+       arte produzida.
+
+ 5     Fluxo até a Demanda Chegar no Designer
+       Da formação do grupo do cliente ao briefing que orienta a produção.
+
+ 6     Sistema de Aprovação da Arte
+       Da aprovação interna (líder de estratégias) à aprovação do cliente, e o que
+       acontece depois.
+
+ 7     Rotina Diária do Designer
+       O que fazer, em que ordem, do início ao fim do expediente.
+
+ 8     Copy e Canva: Recursos do Designer
+       O prompt fixo usado para gerar a copy no ChatGPT e o link de acesso ao Canva.
+
+
+  Em resumo
+
+
+                Assessoria GREAT · Responsabilidades do Designer · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 7
+
+![Página 7 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-07.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+O designer gráfico é responsável por um volume fixo e constante de entregas,
+dentro de um fluxo que envolve onboarding, estratégia e o próprio cliente.
+Entender esse encadeamento é o que torna possível manter a qualidade e o ritmo
+de 2 a 3 artes por semana, para todos os clientes, sem exceção.
+
+
+                                          ↑ Voltar ao Início
+
+
+              Assessoria GREAT · Responsabilidades do Designer · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 8
+
+![Página 8 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-08.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+DOCUMENTO 2
+
+
+       COMO ACESSAR O
+           BRIEFING
+   NA PLATAFORMA GREAT
+```
+
+</details>
+
+## Página 9
+
+![Página 9 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-09.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+  Para que serve esse passo a passo
+
+
+O briefing de cada cliente fica armazenado dentro da plataforma GREAT, na ficha
+individual do cliente. Este documento mostra como chegar até ele em 4 passos
+simples.
+
+
+  Passo a passo
+
+
+ 1     Acessar a plataforma e ir para “Meu Dia”
+       Ao entrar na plataforma GREAT, você já cai na tela principal — o Meu Dia. A
+       partir daqui, basta navegar pelo menu lateral para chegar ao briefing.
+
+
+                    Tela “Meu Dia” — ponto de partida dentro da plataforma GREAT.
+
+ 2     Clicar em “CRM Operacional” no menu lateral
+       No menu lateral esquerdo, clique em CRM Operacional. Você verá a lista
+       completa de todos os clientes da agência, com informações de status e criativos
+       pendentes.
+
+
+                   Assessoria GREAT · Como Acessar o Briefing · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 10
+
+![Página 10 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-10.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+                     Tela “CRM Operacional” — lista de todos os clientes da agência.
+
+3     Clicar no cliente desejado
+      Encontre o cliente na lista e clique no nome dele para abrir a ficha completa. Na
+      ficha, você encontra as informações da conta, status, criativos e — o que
+      precisamos — a seção Arquivos, onde o briefing está armazenado.
+
+
+                   Ficha do cliente — localize a seção “Arquivos” com o PDF do briefing.
+
+
+                    Assessoria GREAT · Como Acessar o Briefing · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 11
+
+![Página 11 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-11.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+4    Clicar no arquivo para abrir o briefing
+     Na seção Arquivos, clique no arquivo PDF listado. O briefing abre diretamente —
+     ele contém todas as informações preenchidas pelo cliente na reunião de
+     onboarding, incluindo dados da empresa, responsável pelo projeto, acessos ao
+     Instagram e Facebook/Meta Ads.
+
+
+        Briefing aberto — Formulário ASSESSORIA GREAT com todas as informações do cliente.
+
+
+ Onde fica o briefing
+ O briefing é sempre o arquivo PDF listado na seção “Arquivos” da ficha do cliente
+ no CRM Operacional. Ele é preenchido pelo próprio cliente e conferido pelo gestor
+ de onboarding na reunião de Start. Contém os dados essenciais para a produção
+ das artes: nome do negócio, responsável, endereço e acessos necessários.
+
+
+                                           ↑ Voltar ao Início
+
+
+                   Assessoria GREAT · Como Acessar o Briefing · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 12
+
+![Página 12 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-12.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+DOCUMENTO 3
+
+
+  COMO SUBIR UM CRIATIVO
+   NA PLATAFORMA GREAT
+```
+
+</details>
+
+## Página 13
+
+![Página 13 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-13.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+  Quando usar
+
+
+Depois que uma arte é aprovada pelo cliente e seu destino for tráfego pago, o
+designer sobe o criativo final na Plataforma GREAT. É esse upload que disponibiliza
+a arte para o gestor de tráfego publicar no Gerenciador de Anúncios.
+
+
+   Quem pode subir criativos
+   Apenas os especialistas da produção de conteúdo podem adicionar novos
+   criativos na plataforma. O gestor de tráfego apenas consulta os criativos já
+   aprovados e sinaliza quando um anúncio foi publicado no Gerenciador de Anúncios
+   da Meta.
+
+
+  Passo a passo
+
+
+ 1     Acessar o CRM Operacional
+       No menu lateral, clique em “CRM Operacional”. A tela mostra o total de clientes
+       da agência e, na lista de “Criativos pendentes”, quantos criativos aprovados
+       aguardam para serem subidos em cada conta.
+
+
+              Tela “CRM Operacional” — lista de clientes e criativos pendentes por cliente.
+
+
+             Assessoria GREAT · Como Subir um Criativo na Plataforma · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 14
+
+![Página 14 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-14.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+2     Abrir a ficha do cliente
+      Clique no nome do cliente para abrir a ficha completa, com as informações da
+      conta e o card “Criativos”, dividido entre “Anúncios para Subir” e “Anúncios
+      Ativos”.
+
+
+                  Ficha do cliente — card de Criativos com o botão “Adicionar Criativo”.
+
+3     Clicar em “Adicionar Criativo”
+      Abre o modal “Adicionar Criativo — [nome do cliente]”, com o campo
+      “Responsável pela Arte” e a área de upload de arquivos (fotos, vídeos, áudios).
+
+
+            Assessoria GREAT · Como Subir um Criativo na Plataforma · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 15
+
+![Página 15 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-15.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+                              Modal de cadastro do criativo, recém-aberto.
+
+4     Selecionar o próprio nome em “Responsável pela Arte”
+      No campo “Selecione o designer”, escolha seu nome — isso é o que vincula o
+      criativo a quem de fato produziu a arte.
+
+
+                               Campo “Responsável pela Arte” preenchido.
+
+5     Anexar o arquivo da arte aprovada
+      Clique em “Clique para selecionar arquivos” e escolha o arquivo final, já aprovado
+      pelo cliente.
+
+
+            Assessoria GREAT · Como Subir um Criativo na Plataforma · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 16
+
+![Página 16 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-16.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+                                     Arquivo anexado, pronto para envio.
+
+6     Clicar em “Enviar”
+      O criativo passa a aparecer na coluna “Anúncios para Subir” da ficha do cliente,
+      identificado com “Arte: [seu nome]” e a data/hora do envio.
+
+
+         Criativo cadastrado na ficha do cliente, aguardando publicação pelo gestor de tráfego.
+
+
+             Assessoria GREAT · Como Subir um Criativo na Plataforma · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 17
+
+![Página 17 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-17.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+  Quando a arte é para o Instagram do cliente
+
+
+Quando o gestor de tráfego solicita uma arte destinada ao Instagram do cliente
+(conteúdo orgânico, não para anúncio), o fluxo é diferente — a arte não sobe na
+plataforma. Nesse caso:
+
+ 1     O gestor solicita ao designer
+       A demanda parte sempre do gestor de tráfego, que sinaliza que precisa de uma
+       arte para o Instagram do cliente.
+
+ 2     Designer produz, passa pelo líder de estratégias e envia ao cliente
+       O fluxo de produção e aprovação é o mesmo das demais artes — produção,
+       aprovação interna do líder de estratégias, e depois envio ao cliente no grupo para
+       aprovação.
+
+ 3     Após aprovação do cliente: WhatsApp privado do gestor
+       Arte aprovada pelo cliente, o designer envia a arte no WhatsApp privado do
+       gestor responsável por aquela conta, para que ele faça o post no perfil do
+       cliente — a não ser que o próprio cliente já tenha deixado claro que ele mesmo
+       vai postar.
+
+
+   Resumo do destino final
+   Arte para tráfego pago: sobe na Plataforma GREAT (o gestor pega e publica no
+   Gerenciador de Anúncios).
+   Arte para Instagram do cliente: enviada no WhatsApp privado do gestor
+   responsável pela conta (que faz o post), salvo se o cliente preferir postar ele
+   mesmo.
+
+
+O designer também pode sinalizar o destino da arte via “Meu Dia” na plataforma
+GREAT ou pessoalmente ao gestor.
+
+
+             Assessoria GREAT · Como Subir um Criativo na Plataforma · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 18
+
+![Página 18 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-18.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+Aba “Meu Dia” na Plataforma GREAT — pode ser usada para sinalizar o destino da arte ao gestor.
+
+
+                                               ↑ Voltar ao Início
+
+
+          Assessoria GREAT · Como Subir um Criativo na Plataforma · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 19
+
+![Página 19 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-19.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+[Página sem texto extraível; consulte a imagem acima.]
+```
+
+</details>
+
+## Página 20
+
+![Página 20 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-20.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+[Página sem texto extraível; consulte a imagem acima.]
+```
+
+</details>
+
+## Página 21
+
+![Página 21 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-21.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+[Página sem texto extraível; consulte a imagem acima.]
+```
+
+</details>
+
+## Página 22
+
+![Página 22 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-22.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+[Página sem texto extraível; consulte a imagem acima.]
+```
+
+</details>
+
+## Página 23
+
+![Página 23 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-23.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+↑ Voltar ao Início
+```
+
+</details>
+
+## Página 24
+
+![Página 24 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-24.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+DOCUMENTO 5
+
+
+   FLUXO ATÉ A DEMANDA
+    CHEGAR NO DESIGNER
+```
+
+</details>
+
+## Página 25
+
+![Página 25 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-25.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+  Formação do grupo do cliente
+
+
+ 1     Comercial cria o grupo do cliente
+       A equipe comercial cria o grupo de WhatsApp do cliente e adiciona o gestor de
+       onboarding.
+
+ 2     Gestor de onboarding adiciona a equipe, conforme o plano
+       O gestor de onboarding adiciona ao grupo as pessoas correspondentes ao plano
+       contratado pelo cliente. Se o plano incluir criação de conteúdo, o designer é
+       adicionado ao grupo — isso não acontece para clientes sem esse serviço no
+       pacote.
+
+
+  Briefing: a base da produção
+
+
+ 3     Cliente preenche o briefing
+       Durante a reunião de onboarding, o próprio cliente preenche o formulário de
+       briefing, com os campos: Objetivo da arte, Referências visuais/imagens e
+       Texto/copy da arte.
+
+ 4     Gestor de onboarding confere o preenchimento
+       Ainda dentro da reunião de onboarding com o cliente, o gestor confere se todos os
+       campos do briefing foram preenchidos corretamente, evitando que informações
+       faltem na hora do designer produzir a arte.
+
+É esse briefing que serve de referência para a produção das artes daquele cliente — é a
+partir dele que o designer entende o que precisa ser comunicado em cada peça.
+
+
+                                          ↑ Voltar ao Início
+
+
+           Assessoria GREAT · Fluxo ate a Demanda Chegar no Designer · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 26
+
+![Página 26 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-26.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+DOCUMENTO 6
+
+
+   SISTEMA DE APROVAÇÃO
+             DA ARTE
+```
+
+</details>
+
+## Página 27
+
+![Página 27 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-27.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+  Aprovação interna — Líder de Estratégias
+
+
+Antes de qualquer arte chegar ao cliente, ela passa por uma revisão interna.
+
+
+  Designer finaliza a produção da arte
+
+                                                   ↓
+
+
+  Líder de estratégias avalia a arte
+
+                                                   ↓
+
+  Aprovada → segue para o cliente  |  Pede ajuste → volta para o designer, que corrige
+  e reenvia para nova aprovação interna
+
+
+Na planilha de controle (Documento 3), enquanto a arte está nessa etapa, ela fica
+marcada na cor azul.
+
+
+  Aprovação do cliente
+
+
+Depois de aprovada internamente, o designer envia a arte no grupo do cliente, pedindo
+aprovação. Essa etapa fica marcada em amarelo na planilha — inclusive quando o
+cliente pediu ajuste e a arte está sendo corrigida para reenvio.
+
+ 1     Cliente pede ajuste
+       A arte volta para o designer, que corrige. A peça ajustada passa novamente
+       pela aprovação interna do líder de estratégias antes de ser reenviada ao
+       cliente.
+
+ 2     Cliente aprova
+       A arte é marcada em verde na planilha e segue para o destino final.
+
+ 3     Cliente reprova de forma definitiva
+       Quando o cliente realmente não gostou da arte e não quer mais aquela peça — ou
+       quer um tipo de arte diferente — a arte é marcada em vermelho na planilha.
+
+
+                 Assessoria GREAT · Sistema de Aprovacao da Arte · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 28
+
+![Página 28 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-28.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+   Cobrando a aprovação do cliente
+   Sempre que o designer for cobrar a aprovação de uma arte que está parada no
+   grupo do cliente, deve marcar/mencionar o cliente diretamente na
+   mensagem dentro do grupo.
+
+
+  Depois da aprovação do cliente: o destino final
+
+
+Uma vez aprovada pelo cliente, a arte segue para um de dois destinos:
+
+
+ Destino          Quando            O que acontece
+
+ Tráfego pago         Quase todas as         O designer sobe o criativo na Plataforma GREAT (ver
+                      artes                  Documento 2) e o gestor de tráfego pega o criativo na
+                                             plataforma e o publica no Gerenciador de Anúncios da
+                                             Meta.
+
+ Instagram do         Quando o gestor        A arte não sobe na plataforma. O designer envia a
+ cliente              solicita uma arte      arte no WhatsApp privado do gestor responsável
+                      específica para o      pela conta, para que ele faça o post no perfil do
+                      perfil                 cliente. Se o cliente já tiver informado que ele mesmo
+                                             vai postar, não é necessário enviar ao gestor.
+
+
+O designer pode sinalizar o destino pessoalmente, por WhatsApp privado, ou pela aba
+“Meu Dia” da plataforma — detalhados no Documento 2.
+
+
+                                           ↑ Voltar ao Início
+
+
+                 Assessoria GREAT · Sistema de Aprovacao da Arte · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 29
+
+![Página 29 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-29.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+DOCUMENTO 7
+
+
+         ROTINA DIÁRIA
+          DO DESIGNER
+```
+
+</details>
+
+## Página 30
+
+![Página 30 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-30.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+  Rotina Diária
+
+
+O que acontece todos os dias, com ordem e prioridade definidas.
+
+
+ Quando          O que fazer       Como
+
+ 1ª ação               Daily — Reunião         A Daily abre o dia, feita logo no início do expediente.
+                       de equipe               Nela são revisadas as demandas: o que foi feito, o
+                                               que ainda precisa ser feito, pendências do dia
+                                               anterior, o que está sendo finalizado e o que vai
+                                               precisar ser refeito.
+
+ Logo após a           Conferir o status       Antes de iniciar produção nova, o designer revisa o
+ Daily                 das artes do dia        que ficou pendente:
+                       anterior                  • Pendente com o líder de estratégias → alinha na
+
+                                                   hora, pessoalmente ou por WhatsApp, solicitando
+                                                   a aprovação ou o ajuste necessário.
+                                                 • Pendente com o cliente → vai ao grupo e cobra a
+                                                   aprovação, sempre marcando o cliente na
+                                                   mensagem.
+                                                 • Já aprovada (inclusive fora do expediente) → segue
+                                                   para o próximo passo.
+
+
+ Manhã /               Produção das            Produção das artes com base nos briefings recebidos,
+ Tarde                 artes do dia            respeitando o ritmo fixo de 2 a 3 artes por cliente por
+                                               semana, sem exceção, para todos os clientes. Nessa
+                                               produção, o designer também leva em consideração
+                                               os avisos dos gestores de tráfego, que sinalizam quais
+                                               clientes ainda não receberam arte nesta semana
+                                               — ou seja, clientes que só receberam suas artes na
+                                               semana anterior e ainda estão sem entrega na
+                                               semana atual.
+
+ Ao concluir           Enviar para             A arte é enviada ao líder de estratégias. Se aprovada,
+ cada arte             aprovação               segue para o cliente; se for pedido ajuste, o designer
+                       interna                 corrige e reenvia para nova aprovação interna.
+
+ Após                  Enviar para o           A arte aprovada internamente é postada no grupo do
+ aprovação             cliente                 cliente, pedindo aprovação. Em caso de ajuste, a peça
+ interna                                       retorna à aprovação interna antes de ser reenviada.
+
+                       Entregar a arte         Se for para tráfego pago: sobe na Plataforma GREAT
+                       ao destino final        (ver Documento 2).
+                                               Se for para o Instagram do cliente: envia no
+
+
+                     Assessoria GREAT · Rotina Diaria do Designer · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 31
+
+![Página 31 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-31.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+Após                                         WhatsApp privado do gestor responsável (ou aguarda
+aprovação do                                 instrução do cliente caso ele mesmo vá postar).
+cliente
+
+Durante todo         Atualizar a             Cada demanda do dia é registrada na planilha —
+o dia                planilha de             cliente, quantidade e cor correspondente ao status da
+                     controle                arte (ver Documento 3).
+
+
+ Regra fixa
+ Todo cliente com criação de conteúdo no plano recebe de 2 a 3 artes por
+ semana, sem exceção. Esse ritmo é o que organiza a prioridade do dia do
+ designer.
+
+
+                                           ↑ Voltar ao Início
+
+
+                   Assessoria GREAT · Rotina Diaria do Designer · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 32
+
+![Página 32 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-32.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+DOCUMENTO 8
+
+
+        COPY E CANVA:
+   RECURSOS DO DESIGNER
+```
+
+</details>
+
+## Página 33
+
+![Página 33 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-33.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+  Quando usar
+
+
+Antes de produzir a arte, o designer precisa de uma copy — o texto persuasivo
+que vai compor a peça (título, frases de impacto, benefícios, CTA). Essa copy é
+gerada no ChatGPT, usando um prompt fixo, sempre que uma nova arte for
+produzida.
+
+
+  O prompt utilizado
+
+
+O designer envia o prompt abaixo ao ChatGPT, ajustando o tema de acordo com o
+procedimento do cliente daquela arte (botox, emagrecimento, preenchimento, etc.):
+
+
+    PROMPT
+
+   TÍTULO FORTE
+   (Chamada principal extremamente impactante, que pare o scroll e gere curiosidade
+   imediata)
+
+
+   SUBTÍTULO
+   (Complementa o título com promessa clara e benefício direto)
+
+
+   FRASES AGRESSIVAS COM GATILHO EMOCIONAL
+   (Frase curta, direta, que mexe com dor ou desejo)
+   (Outra frase que gere urgência ou medo de perder)
+   (Frase que confronte ou provoque o leitor)
+
+
+   COPY PERSUASIVA ESTRATÉGICA
+   (Parágrafo envolvente com foco em conversão, mostrando dor → solução → transformação.
+   Linguagem emocional, direta e estratégica)
+
+
+   BENEFÍCIOS
+   Benefício forte e direto
+   Resultado percebido rapidamente
+   Melhora na autoestima / qualidade de vida
+   Solução prática e eficaz
+   Diferencial competitivo
+
+
+   CARACTERÍSTICAS TÉCNICAS
+   Procedimento seguro
+   Tecnologia avançada
+   Profissional especializado
+   Atendimento personalizado
+
+
+               Assessoria GREAT · Geracao de Copy e Acesso ao Canva · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 34
+
+![Página 34 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-34.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+   Resultados naturais
+
+
+   CTA FORTE (CHAMADA PARA AÇÃO)
+   (Frase de urgência + escassez + ação direta)
+   Ex:
+   Agende agora antes que as vagas acabem
+   Clique no botão e transforme seu resultado hoje
+   Últimas vagas disponíveis – fale conosco agora
+
+
+  Estrutura do retorno
+
+
+O ChatGPT devolve a copy organizada nos blocos abaixo, que o designer usa para
+compor a arte:
+
+
+ Bloco                                            Função na arte
+
+ Título forte                                           Chamada principal, o que primeiro chama
+                                                        atenção na peça.
+
+ Subtítulo                                              Reforça o título com a promessa/benefício
+                                                        direto.
+
+ Frases com gatilho                                     Frases curtas de apoio, para reforçar dor,
+                                                        urgência ou provocação.
+
+ Copy persuasiva                                        Texto mais longo, usado quando a peça
+                                                        permite um parágrafo de apoio (dor →
+                                                        solução → transformação).
+
+ Benefícios                                             Lista de benefícios, usada em peças mais
+                                                        informativas.
+
+ Características técnicas                               Lista de diferenciais técnicos do
+                                                        procedimento/serviço.
+
+ CTA forte                                              Chamada para ação final, sempre com
+                                                        urgência/escassez.
+
+
+   Adaptando por tema
+   O mesmo prompt serve para qualquer procedimento — o designer só precisa
+   indicar o tema desejado (botox, emagrecimento, preenchimento, etc.) para o
+   ChatGPT aplicar o modelo e devolver a copy já pronta para aquele assunto.
+
+
+               Assessoria GREAT · Geracao de Copy e Acesso ao Canva · Uso exclusivo da equipe
+```
+
+</details>
+
+## Página 35
+
+![Página 35 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-35.jpg)
+
+<details>
+<summary>Transcrição textual da página</summary>
+
+```text
+  Acesso ao Canva
+
+
+Além da copy, o designer usa o Canva para produzir a arte. O acesso é feito pelo link
+abaixo:
+
+
+                                                 Abrir Canva →
+
+                                     https://canva.link/fpc3428qzsqae4q
+
+
+                                              ↑ Voltar ao Início
+
+
+               Assessoria GREAT · Geracao de Copy e Acesso ao Canva · Uso exclusivo da equipe
+```
+
+</details>
