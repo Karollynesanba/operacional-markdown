@@ -1,4 +1,4 @@
-# Diagnóstico do Cliente - Exemplo Preenchido
+# Exemplo de diagnóstico preenchido
 
 {% hint style="info" %}
 **Transcrição integral:** `Diagnostico_Cliente_Exemplo_Preenchido.pdf`. O conteúdo abaixo mantém a ordem das páginas e o texto completo extraído do PDF. A imagem de cada página preserva tabelas, diagramas, capturas de tela e demais elementos visuais do original.
@@ -6,12 +6,13 @@
 
 ## Página 1
 
-![Página 1 de Diagnóstico do Cliente - Exemplo Preenchido](../.gitbook/assets/pdf-pages/diagnostico-cliente-exemplo-preenchido/page-01.jpg)
+![Página 1 de Diagnóstico do Cliente - Exemplo Preenchido](<../.gitbook/assets/page-01 (7).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 ESTUDO ESTRUTURADO · EXEMPLO PREENCHIDO
 Diagnóstico do
 Cliente
@@ -28,12 +29,13 @@ GREAT                                                    Assessoria GREAT · Pla
 
 ## Página 2
 
-![Página 2 de Diagnóstico do Cliente - Exemplo Preenchido](../.gitbook/assets/pdf-pages/diagnostico-cliente-exemplo-preenchido/page-02.jpg)
+![Página 2 de Diagnóstico do Cliente - Exemplo Preenchido](<../.gitbook/assets/page-02 (7).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 Sobre este documento
 
 Este guia reúne as perguntas que precisam ser respondidas sempre que um gestor for estudar um cliente para
@@ -79,12 +81,13 @@ Esta versão traz um exemplo de estudo já respondido, como referência de preen
 
 ## Página 3
 
-![Página 3 de Diagnóstico do Cliente - Exemplo Preenchido](../.gitbook/assets/pdf-pages/diagnostico-cliente-exemplo-preenchido/page-03.jpg)
+![Página 3 de Diagnóstico do Cliente - Exemplo Preenchido](<../.gitbook/assets/page-03 (7).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 02      POSICIONAMENTO E MARCA
 
 
@@ -128,12 +131,13 @@ para gerar identificação e segurança antes da oferta.
 
 ## Página 4
 
-![Página 4 de Diagnóstico do Cliente - Exemplo Preenchido](../.gitbook/assets/pdf-pages/diagnostico-cliente-exemplo-preenchido/page-04.jpg)
+![Página 4 de Diagnóstico do Cliente - Exemplo Preenchido](<../.gitbook/assets/page-04 (6).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 04      DISTRIBUIÇÃO E ALCANCE
 
 
@@ -175,12 +179,13 @@ comparecimento → fechamento. Leads que não avançarem devem entrar em uma rot
 
 ## Página 5
 
-![Página 5 de Diagnóstico do Cliente - Exemplo Preenchido](../.gitbook/assets/pdf-pages/diagnostico-cliente-exemplo-preenchido/page-05.jpg)
+![Página 5 de Diagnóstico do Cliente - Exemplo Preenchido](<../.gitbook/assets/page-05 (6).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 06      CRM E ACOMPANHAMENTO
 
 

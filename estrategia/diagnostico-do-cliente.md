@@ -1,4 +1,4 @@
-# Diagnóstico do Cliente
+# Diagnóstico do cliente
 
 {% hint style="info" %}
 **Transcrição integral:** `Diagnostico_do_Cliente.pdf`. O conteúdo abaixo mantém a ordem das páginas e o texto completo extraído do PDF. A imagem de cada página preserva tabelas, diagramas, capturas de tela e demais elementos visuais do original.
@@ -6,12 +6,13 @@
 
 ## Página 1
 
-![Página 1 de Diagnóstico do Cliente](../.gitbook/assets/pdf-pages/diagnostico-do-cliente/page-01.jpg)
+![Página 1 de Diagnóstico do Cliente](<../.gitbook/assets/page-01 (2).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 ESTUDO ESTRUTURADO
 Diagnóstico do
 Cliente
@@ -28,12 +29,13 @@ GREAT                                                      Assessoria GREAT · P
 
 ## Página 2
 
-![Página 2 de Diagnóstico do Cliente](../.gitbook/assets/pdf-pages/diagnostico-do-cliente/page-02.jpg)
+![Página 2 de Diagnóstico do Cliente](<../.gitbook/assets/page-02 (2).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 Sobre este documento
 
 Este guia reúne as perguntas que precisam ser respondidas sempre que um gestor for estudar um cliente para
@@ -84,12 +86,13 @@ respostas que o gestor chega à conclusão do estudo e define a estratégia do c
 
 ## Página 3
 
-![Página 3 de Diagnóstico do Cliente](../.gitbook/assets/pdf-pages/diagnostico-do-cliente/page-03.jpg)
+![Página 3 de Diagnóstico do Cliente](<../.gitbook/assets/page-03 (2).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 03      OFERTA E COMUNICAÇÃO
 
 

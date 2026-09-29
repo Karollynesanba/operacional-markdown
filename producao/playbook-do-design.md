@@ -1,4 +1,4 @@
-# Playbook do Design
+# Playbook do design
 
 {% hint style="info" %}
 **Transcrição integral:** `Playbook_do_Design_Completo (2).pdf`. O conteúdo abaixo mantém a ordem das páginas e o texto completo extraído do PDF. A imagem de cada página preserva tabelas, diagramas, capturas de tela e demais elementos visuais do original.
@@ -6,12 +6,13 @@
 
 ## Página 1
 
-![Página 1 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-01.jpg)
+![Página 1 de Playbook do Design](<../.gitbook/assets/page-01 (8).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 PLAYBOOK DO
    DESIGN
 ```
@@ -20,12 +21,13 @@ PLAYBOOK DO
 
 ## Página 2
 
-![Página 2 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-02.jpg)
+![Página 2 de Playbook do Design](<../.gitbook/assets/page-02 (8).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
   O que você vai aprender
 
 
@@ -82,12 +84,13 @@ cliente por semana, sem exceção.
 
 ## Página 3
 
-![Página 3 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-03.jpg)
+![Página 3 de Playbook do Design](<../.gitbook/assets/page-03 (8).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 8     Copy e Canva: Recursos do Designer
       O prompt para gerar a copy no ChatGPT e o link de acesso ao Canva.
 
@@ -101,12 +104,13 @@ cliente por semana, sem exceção.
 
 ## Página 4
 
-![Página 4 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-04.jpg)
+![Página 4 de Playbook do Design](<../.gitbook/assets/page-04 (7).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 DOCUMENTO 1
 
 
@@ -118,12 +122,13 @@ DOCUMENTO 1
 
 ## Página 5
 
-![Página 5 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-05.jpg)
+![Página 5 de Playbook do Design](<../.gitbook/assets/page-05 (7).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
   O papel do design na GREAT
 
 
@@ -178,12 +183,13 @@ fluxo maior, que passa por outras equipes antes e depois dele:
 
 ## Página 6
 
-![Página 6 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-06.jpg)
+![Página 6 de Playbook do Design](<../.gitbook/assets/page-06 (5).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
   Cliente aprova no grupo (ou pede ajuste, retornando à aprovação interna)
 
                                                   ↓
@@ -237,12 +243,13 @@ sete detalham, passo a passo, cada parte do fluxo resumido acima:
 
 ## Página 7
 
-![Página 7 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-07.jpg)
+![Página 7 de Playbook do Design](<../.gitbook/assets/page-07 (5).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 O designer gráfico é responsável por um volume fixo e constante de entregas,
 dentro de um fluxo que envolve onboarding, estratégia e o próprio cliente.
 Entender esse encadeamento é o que torna possível manter a qualidade e o ritmo
@@ -259,12 +266,13 @@ de 2 a 3 artes por semana, para todos os clientes, sem exceção.
 
 ## Página 8
 
-![Página 8 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-08.jpg)
+![Página 8 de Playbook do Design](<../.gitbook/assets/page-08 (5).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 DOCUMENTO 2
 
 
@@ -277,12 +285,13 @@ DOCUMENTO 2
 
 ## Página 9
 
-![Página 9 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-09.jpg)
+![Página 9 de Playbook do Design](<../.gitbook/assets/page-09 (5).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
   Para que serve esse passo a passo
 
 
@@ -314,12 +323,13 @@ simples.
 
 ## Página 10
 
-![Página 10 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-10.jpg)
+![Página 10 de Playbook do Design](<../.gitbook/assets/page-10 (3).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
                      Tela “CRM Operacional” — lista de todos os clientes da agência.
 
 3     Clicar no cliente desejado
@@ -338,12 +348,13 @@ simples.
 
 ## Página 11
 
-![Página 11 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-11.jpg)
+![Página 11 de Playbook do Design](<../.gitbook/assets/page-11 (2).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 4    Clicar no arquivo para abrir o briefing
      Na seção Arquivos, clique no arquivo PDF listado. O briefing abre diretamente —
      ele contém todas as informações preenchidas pelo cliente na reunião de
@@ -371,12 +382,13 @@ simples.
 
 ## Página 12
 
-![Página 12 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-12.jpg)
+![Página 12 de Playbook do Design](<../.gitbook/assets/page-12 (2).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 DOCUMENTO 3
 
 
@@ -388,12 +400,13 @@ DOCUMENTO 3
 
 ## Página 13
 
-![Página 13 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-13.jpg)
+![Página 13 de Playbook do Design](<../.gitbook/assets/page-13 (2).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
   Quando usar
 
 
@@ -428,12 +441,13 @@ a arte para o gestor de tráfego publicar no Gerenciador de Anúncios.
 
 ## Página 14
 
-![Página 14 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-14.jpg)
+![Página 14 de Playbook do Design](<../.gitbook/assets/page-14 (1).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 2     Abrir a ficha do cliente
       Clique no nome do cliente para abrir a ficha completa, com as informações da
       conta e o card “Criativos”, dividido entre “Anúncios para Subir” e “Anúncios
@@ -454,12 +468,13 @@ a arte para o gestor de tráfego publicar no Gerenciador de Anúncios.
 
 ## Página 15
 
-![Página 15 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-15.jpg)
+![Página 15 de Playbook do Design](../.gitbook/assets/page-15.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
                               Modal de cadastro do criativo, recém-aberto.
 
 4     Selecionar o próprio nome em “Responsável pela Arte”
@@ -481,12 +496,13 @@ a arte para o gestor de tráfego publicar no Gerenciador de Anúncios.
 
 ## Página 16
 
-![Página 16 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-16.jpg)
+![Página 16 de Playbook do Design](../.gitbook/assets/page-16.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
                                      Arquivo anexado, pronto para envio.
 
 6     Clicar em “Enviar”
@@ -504,12 +520,13 @@ a arte para o gestor de tráfego publicar no Gerenciador de Anúncios.
 
 ## Página 17
 
-![Página 17 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-17.jpg)
+![Página 17 de Playbook do Design](../.gitbook/assets/page-17.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
   Quando a arte é para o Instagram do cliente
 
 
@@ -552,12 +569,13 @@ GREAT ou pessoalmente ao gestor.
 
 ## Página 18
 
-![Página 18 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-18.jpg)
+![Página 18 de Playbook do Design](../.gitbook/assets/page-18.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 Aba “Meu Dia” na Plataforma GREAT — pode ser usada para sinalizar o destino da arte ao gestor.
 
 
@@ -571,12 +589,13 @@ Aba “Meu Dia” na Plataforma GREAT — pode ser usada para sinalizar o destin
 
 ## Página 19
 
-![Página 19 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-19.jpg)
+![Página 19 de Playbook do Design](../.gitbook/assets/page-19.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 [Página sem texto extraível; consulte a imagem acima.]
 ```
 
@@ -584,12 +603,13 @@ Aba “Meu Dia” na Plataforma GREAT — pode ser usada para sinalizar o destin
 
 ## Página 20
 
-![Página 20 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-20.jpg)
+![Página 20 de Playbook do Design](../.gitbook/assets/page-20.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 [Página sem texto extraível; consulte a imagem acima.]
 ```
 
@@ -597,12 +617,13 @@ Aba “Meu Dia” na Plataforma GREAT — pode ser usada para sinalizar o destin
 
 ## Página 21
 
-![Página 21 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-21.jpg)
+![Página 21 de Playbook do Design](../.gitbook/assets/page-21.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 [Página sem texto extraível; consulte a imagem acima.]
 ```
 
@@ -610,12 +631,13 @@ Aba “Meu Dia” na Plataforma GREAT — pode ser usada para sinalizar o destin
 
 ## Página 22
 
-![Página 22 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-22.jpg)
+![Página 22 de Playbook do Design](../.gitbook/assets/page-22.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 [Página sem texto extraível; consulte a imagem acima.]
 ```
 
@@ -623,12 +645,13 @@ Aba “Meu Dia” na Plataforma GREAT — pode ser usada para sinalizar o destin
 
 ## Página 23
 
-![Página 23 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-23.jpg)
+![Página 23 de Playbook do Design](../.gitbook/assets/page-23.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 ↑ Voltar ao Início
 ```
 
@@ -636,12 +659,13 @@ Aba “Meu Dia” na Plataforma GREAT — pode ser usada para sinalizar o destin
 
 ## Página 24
 
-![Página 24 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-24.jpg)
+![Página 24 de Playbook do Design](../.gitbook/assets/page-24.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 DOCUMENTO 5
 
 
@@ -653,12 +677,13 @@ DOCUMENTO 5
 
 ## Página 25
 
-![Página 25 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-25.jpg)
+![Página 25 de Playbook do Design](../.gitbook/assets/page-25.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
   Formação do grupo do cliente
 
 
@@ -700,12 +725,13 @@ partir dele que o designer entende o que precisa ser comunicado em cada peça.
 
 ## Página 26
 
-![Página 26 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-26.jpg)
+![Página 26 de Playbook do Design](../.gitbook/assets/page-26.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 DOCUMENTO 6
 
 
@@ -717,12 +743,13 @@ DOCUMENTO 6
 
 ## Página 27
 
-![Página 27 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-27.jpg)
+![Página 27 de Playbook do Design](../.gitbook/assets/page-27.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
   Aprovação interna — Líder de Estratégias
 
 
@@ -773,12 +800,13 @@ cliente pediu ajuste e a arte está sendo corrigida para reenvio.
 
 ## Página 28
 
-![Página 28 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-28.jpg)
+![Página 28 de Playbook do Design](../.gitbook/assets/page-28.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
    Cobrando a aprovação do cliente
    Sempre que o designer for cobrar a aprovação de uma arte que está parada no
    grupo do cliente, deve marcar/mencionar o cliente diretamente na
@@ -819,12 +847,13 @@ O designer pode sinalizar o destino pessoalmente, por WhatsApp privado, ou pela 
 
 ## Página 29
 
-![Página 29 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-29.jpg)
+![Página 29 de Playbook do Design](../.gitbook/assets/page-29.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 DOCUMENTO 7
 
 
@@ -836,12 +865,13 @@ DOCUMENTO 7
 
 ## Página 30
 
-![Página 30 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-30.jpg)
+![Página 30 de Playbook do Design](../.gitbook/assets/page-30.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
   Rotina Diária
 
 
@@ -899,12 +929,13 @@ O que acontece todos os dias, com ordem e prioridade definidas.
 
 ## Página 31
 
-![Página 31 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-31.jpg)
+![Página 31 de Playbook do Design](../.gitbook/assets/page-31.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 Após                                         WhatsApp privado do gestor responsável (ou aguarda
 aprovação do                                 instrução do cliente caso ele mesmo vá postar).
 cliente
@@ -930,12 +961,13 @@ o dia                planilha de             cliente, quantidade e cor correspon
 
 ## Página 32
 
-![Página 32 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-32.jpg)
+![Página 32 de Playbook do Design](../.gitbook/assets/page-32.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 DOCUMENTO 8
 
 
@@ -947,12 +979,13 @@ DOCUMENTO 8
 
 ## Página 33
 
-![Página 33 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-33.jpg)
+![Página 33 de Playbook do Design](../.gitbook/assets/page-33.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
   Quando usar
 
 
@@ -1013,12 +1046,13 @@ procedimento do cliente daquela arte (botox, emagrecimento, preenchimento, etc.)
 
 ## Página 34
 
-![Página 34 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-34.jpg)
+![Página 34 de Playbook do Design](../.gitbook/assets/page-34.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
    Resultados naturais
 
 
@@ -1075,12 +1109,13 @@ compor a arte:
 
 ## Página 35
 
-![Página 35 de Playbook do Design](../.gitbook/assets/pdf-pages/playbook-do-design/page-35.jpg)
+![Página 35 de Playbook do Design](../.gitbook/assets/page-35.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
   Acesso ao Canva
 
 

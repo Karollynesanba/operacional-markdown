@@ -1,4 +1,4 @@
-# Gestão Contínua de Posicionamento
+# Gestão contínua de posicionamento
 
 {% hint style="info" %}
 **Transcrição integral:** `Playbook - Gestão Contínua de Posicionamento (1).pdf`. O conteúdo abaixo mantém a ordem das páginas e o texto completo extraído do PDF. A imagem de cada página preserva tabelas, diagramas, capturas de tela e demais elementos visuais do original.
@@ -6,12 +6,13 @@
 
 ## Página 1
 
-![Página 1 de Gestão Contínua de Posicionamento](../.gitbook/assets/pdf-pages/gestao-continua-de-posicionamento/page-01.jpg)
+![Página 1 de Gestão Contínua de Posicionamento](<../.gitbook/assets/page-01 (6).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 Gestão Contínua de
 Posicionamento
 
@@ -25,12 +26,13 @@ ASSESSORIA GREAT
 
 ## Página 2
 
-![Página 2 de Gestão Contínua de Posicionamento](../.gitbook/assets/pdf-pages/gestao-continua-de-posicionamento/page-02.jpg)
+![Página 2 de Gestão Contínua de Posicionamento](<../.gitbook/assets/page-02 (6).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
      1. Diagnóstico e Objetivo
 
 
@@ -85,12 +87,13 @@ GREAT — Gestão Contínua de Posicionamento                                   
 
 ## Página 3
 
-![Página 3 de Gestão Contínua de Posicionamento](../.gitbook/assets/pdf-pages/gestao-continua-de-posicionamento/page-03.jpg)
+![Página 3 de Gestão Contínua de Posicionamento](<../.gitbook/assets/page-03 (6).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
      3. Carteira Piloto
 
 
@@ -144,12 +147,13 @@ GREAT — Gestão Contínua de Posicionamento                                   
 
 ## Página 4
 
-![Página 4 de Gestão Contínua de Posicionamento](../.gitbook/assets/pdf-pages/gestao-continua-de-posicionamento/page-04.jpg)
+![Página 4 de Gestão Contínua de Posicionamento](<../.gitbook/assets/page-04 (5).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
      5. Cronograma de Conteúdo
 
 
@@ -202,12 +206,13 @@ GREAT — Gestão Contínua de Posicionamento                                   
 
 ## Página 5
 
-![Página 5 de Gestão Contínua de Posicionamento](../.gitbook/assets/pdf-pages/gestao-continua-de-posicionamento/page-05.jpg)
+![Página 5 de Gestão Contínua de Posicionamento](<../.gitbook/assets/page-05 (5).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
      6. Kickoff com o Cliente
 
 

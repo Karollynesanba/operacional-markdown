@@ -1,4 +1,4 @@
-# Playbook do Editor de Vídeo
+# Playbook do editor de vídeo
 
 {% hint style="info" %}
 **Transcrição integral:** `Playbook_Editor_de_Video.pdf`. O conteúdo abaixo mantém a ordem das páginas e o texto completo extraído do PDF. A imagem de cada página preserva tabelas, diagramas, capturas de tela e demais elementos visuais do original.
@@ -6,12 +6,13 @@
 
 ## Página 1
 
-![Página 1 de Playbook do Editor de Vídeo](../.gitbook/assets/pdf-pages/playbook-editor-de-video/page-01.jpg)
+![Página 1 de Playbook do Editor de Vídeo](<../.gitbook/assets/page-01 (4).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 ASSESSORIA GREAT
 
 Playbook do
@@ -29,12 +30,13 @@ Uso interno · Assessoria GREAT
 
 ## Página 2
 
-![Página 2 de Playbook do Editor de Vídeo](../.gitbook/assets/pdf-pages/playbook-editor-de-video/page-02.jpg)
+![Página 2 de Playbook do Editor de Vídeo](<../.gitbook/assets/page-02 (4).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 1. Visão Geral
 
 
@@ -74,12 +76,13 @@ comporta de forma diferente entre os dois níveis, isso é sinalizado com as eti
 
 ## Página 3
 
-![Página 3 de Playbook do Editor de Vídeo](../.gitbook/assets/pdf-pages/playbook-editor-de-video/page-03.jpg)
+![Página 3 de Playbook do Editor de Vídeo](<../.gitbook/assets/page-03 (4).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 2. Rotina Diária
 
 
@@ -118,12 +121,13 @@ dia é ocupado pela produção das demandas descritas na Seção 3.
 
 ## Página 4
 
-![Página 4 de Playbook do Editor de Vídeo](../.gitbook/assets/pdf-pages/playbook-editor-de-video/page-04.jpg)
+![Página 4 de Playbook do Editor de Vídeo](<../.gitbook/assets/page-04 (3).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 3. Divisão de Responsabilidades
 
 
@@ -178,12 +182,13 @@ os fluxos das Seções 4 e 5 normalmente (sem etapa de gravação).
 
 ## Página 5
 
-![Página 5 de Playbook do Editor de Vídeo](../.gitbook/assets/pdf-pages/playbook-editor-de-video/page-05.jpg)
+![Página 5 de Playbook do Editor de Vídeo](<../.gitbook/assets/page-05 (3).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 →    Envia para aprovação interna do líder de estratégia (ciclo de ajuste se necessário — ver
      Seção 5).
 
@@ -201,12 +206,13 @@ os fluxos das Seções 4 e 5 normalmente (sem etapa de gravação).
 
 ## Página 6
 
-![Página 6 de Playbook do Editor de Vídeo](../.gitbook/assets/pdf-pages/playbook-editor-de-video/page-06.jpg)
+![Página 6 de Playbook do Editor de Vídeo](<../.gitbook/assets/page-06 (3).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 4. Fluxo de Classificação e Validação de Criativos
 
 
@@ -240,12 +246,13 @@ nenhum tiver dado resultado. O critério completo está nas páginas finais dest
 
 ## Página 7
 
-![Página 7 de Playbook do Editor de Vídeo](../.gitbook/assets/pdf-pages/playbook-editor-de-video/page-07.jpg)
+![Página 7 de Playbook do Editor de Vídeo](<../.gitbook/assets/page-07 (3).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
    2. Resultado do teste e graduação a POP
 
 
@@ -268,12 +275,13 @@ esse modelo no fluxo normal.
 
 ## Página 8
 
-![Página 8 de Playbook do Editor de Vídeo](../.gitbook/assets/pdf-pages/playbook-editor-de-video/page-08.jpg)
+![Página 8 de Playbook do Editor de Vídeo](<../.gitbook/assets/page-08 (3).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
    3. Quando o cliente para de performar
 
 
@@ -312,12 +320,13 @@ campanha ativa no gerenciador.
 
 ## Página 9
 
-![Página 9 de Playbook do Editor de Vídeo](../.gitbook/assets/pdf-pages/playbook-editor-de-video/page-09.jpg)
+![Página 9 de Playbook do Editor de Vídeo](<../.gitbook/assets/page-09 (3).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 OBSERVAÇÃO: COMO A PRODUÇÃO DO CRIATIVO FUNCIONA
 O vídeo nem sempre exige roteiro novo. Pode ser sem roteiro (compilando antes/depois do cliente,
 com ou sem narração por cima, humana ou de IA) ou com roteiro: o editor escreve, envia pro cliente, o
@@ -378,12 +387,13 @@ mesma região (verba pode variar) OU verba parecida (região pode variar), nunca
 
 ## Página 10
 
-![Página 10 de Playbook do Editor de Vídeo](../.gitbook/assets/pdf-pages/playbook-editor-de-video/page-10.jpg)
+![Página 10 de Playbook do Editor de Vídeo](<../.gitbook/assets/page-10 (1).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 simultaneamente. Se a base disponível for maior, divide em ondas sucessivas em vez de diluir o
 volume entre mais clientes.
 
@@ -437,12 +447,13 @@ prioridade é sempre resolver dentro do fluxo normal antes de recorrer ao paliat
 
 ## Página 11
 
-![Página 11 de Playbook do Editor de Vídeo](../.gitbook/assets/pdf-pages/playbook-editor-de-video/page-11.jpg)
+![Página 11 de Playbook do Editor de Vídeo](../.gitbook/assets/page-11.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 5. Planilha de Controle de Produção
 
 
@@ -499,12 +510,13 @@ arquivo.
 
 ## Página 12
 
-![Página 12 de Playbook do Editor de Vídeo](../.gitbook/assets/pdf-pages/playbook-editor-de-video/page-12.jpg)
+![Página 12 de Playbook do Editor de Vídeo](../.gitbook/assets/page-12.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
    Estrutura da grade de controle
 
 Dentro de cada aba de editor (Amanda, André), a estrutura segue o mesmo padrão:
@@ -563,12 +575,13 @@ Antes de qualquer vídeo chegar ao cliente, ele passa por uma revisão interna:
 
 ## Página 13
 
-![Página 13 de Playbook do Editor de Vídeo](../.gitbook/assets/pdf-pages/playbook-editor-de-video/page-13.jpg)
+![Página 13 de Playbook do Editor de Vídeo](../.gitbook/assets/page-13.jpg)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
     →     Editor de vídeo finaliza a produção do vídeo.
 
     →     Líder de estratégias avalia o vídeo.

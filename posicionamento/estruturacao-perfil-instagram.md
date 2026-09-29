@@ -1,4 +1,4 @@
-# Estruturação de Perfil - Instagram
+# Estruturação do perfil no Instagram
 
 {% hint style="info" %}
 **Transcrição integral:** `Playbook_Estruturacao_Perfil_Instagram_GREAT (4).pdf`. O conteúdo abaixo mantém a ordem das páginas e o texto completo extraído do PDF. A imagem de cada página preserva tabelas, diagramas, capturas de tela e demais elementos visuais do original.
@@ -6,12 +6,13 @@
 
 ## Página 1
 
-![Página 1 de Estruturação de Perfil - Instagram](../.gitbook/assets/pdf-pages/estruturacao-perfil-instagram/page-01.jpg)
+![Página 1 de Estruturação de Perfil - Instagram](<../.gitbook/assets/page-01 (1).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 PLAYBOOK OPERACIONAL
 Estruturação de perfil -
 Instagram
@@ -25,12 +26,13 @@ ASSESSORIA GREAT                       USO EXCLUSIVO DA EQUIPE
 
 ## Página 2
 
-![Página 2 de Estruturação de Perfil - Instagram](../.gitbook/assets/pdf-pages/estruturacao-perfil-instagram/page-02.jpg)
+![Página 2 de Estruturação de Perfil - Instagram](<../.gitbook/assets/page-02 (1).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 01 — VISÃO GERAL
 Objetivo
 
@@ -87,12 +89,13 @@ Assim que o briefing é recebido, os dados abaixo devem ser lançados na planilh
 
 ## Página 3
 
-![Página 3 de Estruturação de Perfil - Instagram](../.gitbook/assets/pdf-pages/estruturacao-perfil-instagram/page-03.jpg)
+![Página 3 de Estruturação de Perfil - Instagram](<../.gitbook/assets/page-03 (1).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 02 — EXECUÇÃO
 Passo a Passo de Estruturação
 
@@ -143,12 +146,13 @@ A bio deve reunir, nesta ordem, os quatro elementos abaixo — todos obrigatóri
 
 ## Página 4
 
-![Página 4 de Estruturação de Perfil - Instagram](../.gitbook/assets/pdf-pages/estruturacao-perfil-instagram/page-04.jpg)
+![Página 4 de Estruturação de Perfil - Instagram](<../.gitbook/assets/page-04 (1).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 02 — EXECUÇÃO
 Destaques e Feed
 
@@ -181,12 +185,13 @@ Verificar se o cliente possui fotos de antes e depois no perfil:
 
 ## Página 5
 
-![Página 5 de Estruturação de Perfil - Instagram](../.gitbook/assets/pdf-pages/estruturacao-perfil-instagram/page-05.jpg)
+![Página 5 de Estruturação de Perfil - Instagram](<../.gitbook/assets/page-05 (1).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
            Referência — 3 posts fixados de antes e depois
 
 
@@ -215,12 +220,13 @@ produção pelo designer:
 
 ## Página 6
 
-![Página 6 de Estruturação de Perfil - Instagram](../.gitbook/assets/pdf-pages/estruturacao-perfil-instagram/page-06.jpg)
+![Página 6 de Estruturação de Perfil - Instagram](<../.gitbook/assets/page-06 (1).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 03 — REFERÊNCIA
 Modelo do Perfil Ideal
 
@@ -264,12 +270,13 @@ lugar e posts fixados de antes e depois.
 
 ## Página 7
 
-![Página 7 de Estruturação de Perfil - Instagram](../.gitbook/assets/pdf-pages/estruturacao-perfil-instagram/page-07.jpg)
+![Página 7 de Estruturação de Perfil - Instagram](<../.gitbook/assets/page-07 (1).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 04 — ENCERRAMENTO
 Finalização
 
@@ -300,12 +307,13 @@ prints, apenas texto:
 
 ## Página 8
 
-![Página 8 de Estruturação de Perfil - Instagram](../.gitbook/assets/pdf-pages/estruturacao-perfil-instagram/page-08.jpg)
+![Página 8 de Estruturação de Perfil - Instagram](<../.gitbook/assets/page-08 (1).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
    Exemplo aplicado                                                                                                  PADRÃO GREAT
 
 
@@ -332,12 +340,13 @@ prints, apenas texto:
 
 ## Página 9
 
-![Página 9 de Estruturação de Perfil - Instagram](../.gitbook/assets/pdf-pages/estruturacao-perfil-instagram/page-09.jpg)
+![Página 9 de Estruturação de Perfil - Instagram](<../.gitbook/assets/page-09 (1).jpg>)
 
 <details>
+
 <summary>Transcrição textual da página</summary>
 
-```text
+```
 05 — CASOS ESPECIAIS
 Casos Especiais
 
