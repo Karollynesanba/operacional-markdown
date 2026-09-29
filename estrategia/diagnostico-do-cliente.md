@@ -1,7 +1,7 @@
 # Diagnóstico do cliente
 
 {% hint style="info" %}
-**Conteúdo integral convertido para Markdown:** `Diagnostico_do_Cliente.pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
+**Conteúdo integral convertido para Markdown:** `Diagnostico_do_Cliente (1).pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
 Guia de perguntas para a construção da estratégia de cada cliente —

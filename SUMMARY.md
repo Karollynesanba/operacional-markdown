@@ -1,9 +1,8 @@
 # Table of contents
 
 * [Início](README.md)
-* [Estratégia](estrategia/README.md)
-  * [Diagnóstico do cliente](estrategia/diagnostico-do-cliente.md)
-  * [Exemplo de diagnóstico preenchido](estrategia/diagnostico-exemplo-preenchido.md)
+* [Diagnóstico do cliente](estrategia/diagnostico-do-cliente.md)
+* [Diagnóstico do cliente — exemplo preenchido](estrategia/diagnostico-exemplo-preenchido.md)
 * [Posicionamento](posicionamento/README.md)
   * [Estruturação do perfil no Instagram](posicionamento/estruturacao-perfil-instagram.md)
   * [Gestão contínua de posicionamento](posicionamento/gestao-continua.md)
