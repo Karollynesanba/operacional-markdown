@@ -1,39 +1,23 @@
 # Diagnóstico do Cliente
 
 {% hint style="info" %}
-**Transcrição integral:** `Diagnostico_do_Cliente.pdf`. O conteúdo abaixo mantém a ordem das páginas e o texto completo extraído do PDF. A imagem de cada página preserva tabelas, diagramas, capturas de tela e demais elementos visuais do original.
+**Conteúdo integral convertido para Markdown:** `Diagnostico_do_Cliente.pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
 ## Página 1
 
-![Página 1 de Diagnóstico do Cliente](../.gitbook/assets/pdf-pages/diagnostico-do-cliente/page-01.jpg)
+### ESTUDO ESTRUTURADO
 
-<details>
-<summary>Transcrição textual da página</summary>
-
-```text
-ESTUDO ESTRUTURADO
 Diagnóstico do
 Cliente
-
 
 Guia de perguntas para a construção da estratégia de cada cliente —
 da leitura de mercado ao acompanhamento em CRM.
 
-
 GREAT                                                      Assessoria GREAT · Planejamento Estratégico
-```
-
-</details>
 
 ## Página 2
 
-![Página 2 de Diagnóstico do Cliente](../.gitbook/assets/pdf-pages/diagnostico-do-cliente/page-02.jpg)
-
-<details>
-<summary>Transcrição textual da página</summary>
-
-```text
 Sobre este documento
 
 Este guia reúne as perguntas que precisam ser respondidas sempre que um gestor for estudar um cliente para
@@ -43,102 +27,81 @@ Marca, Oferta e Comunicação, Distribuição e Alcance, Funil, e CRM e Acompanh
 O estudo só está completo quando todas as perguntas de todos os temas foram respondidas. É a partir dessas
 respostas que o gestor chega à conclusão do estudo e define a estratégia do cliente.
 
-
-   00       DIAGNÓSTICO DO CLIENTE
-
-
-    › Qual é a situação atual do cliente?
-
-    Descrever brevemente como funciona a operação atualmente — marketing, vendas — e quais são os principais problemas
-    identificados.
+### 00       DIAGNÓSTICO DO CLIENTE
 
 
-   01       MERCADO E CLIENTE
+- Qual é a situação atual do cliente?
+
+Descrever brevemente como funciona a operação atualmente — marketing, vendas — e quais são os principais problemas
+identificados.
+
+### 01       MERCADO E CLIENTE
 
 
-    › Qual é o mercado de atuação do cliente?
+- Qual é o mercado de atuação do cliente?
 
-    › Quem é o cliente ideal?
+- Quem é o cliente ideal?
 
-    › Quais são os principais desejos, interesses e necessidades desse público?
+- Quais são os principais desejos, interesses e necessidades desse público?
 
-    › Por que esse perfil é o cliente ideal para o negócio?
+- Por que esse perfil é o cliente ideal para o negócio?
 
-
-   02       POSICIONAMENTO E MARCA
-
-
-    › Como o cliente deve ser percebido pelo mercado?
-
-    › Qual espaço ele deve ocupar na mente do consumidor?
-
-    › Quais são seus principais diferenciais?
-
-    › Quais são os pilares que sustentam sua autoridade?
+### 02       POSICIONAMENTO E MARCA
 
 
-                                              GREAT — Estudo Estruturado do Cliente
-```
+- Como o cliente deve ser percebido pelo mercado?
 
-</details>
+- Qual espaço ele deve ocupar na mente do consumidor?
+
+- Quais são seus principais diferenciais?
+
+- Quais são os pilares que sustentam sua autoridade?
+
+GREAT — Estudo Estruturado do Cliente
 
 ## Página 3
 
-![Página 3 de Diagnóstico do Cliente](../.gitbook/assets/pdf-pages/diagnostico-do-cliente/page-03.jpg)
-
-<details>
-<summary>Transcrição textual da página</summary>
-
-```text
-03      OFERTA E COMUNICAÇÃO
+### 03      OFERTA E COMUNICAÇÃO
 
 
-› O que vamos vender/priorizar?
+- O que vamos vender/priorizar?
 
-› Quais são os principais benefícios dessas ofertas?
+- Quais são os principais benefícios dessas ofertas?
 
-› Como devemos comunicar essas ofertas?
+- Como devemos comunicar essas ofertas?
 
-
-04      DISTRIBUIÇÃO E ALCANCE
-
-
-› Qual público e região vamos priorizar?
-
-› Quais canais vamos utilizar?
-
-› Quais públicos vamos trabalhar?
+### 04      DISTRIBUIÇÃO E ALCANCE
 
 
-05      FUNIL
+- Qual público e região vamos priorizar?
+
+- Quais canais vamos utilizar?
+
+- Quais públicos vamos trabalhar?
+
+### 05      FUNIL
 
 
-› Qual estrutura de funil será utilizada?
+- Qual estrutura de funil será utilizada?
 
-› Quais são as etapas desse funil?
+- Quais são as etapas desse funil?
 
-› O que será trabalhado em cada etapa?
+- O que será trabalhado em cada etapa?
 
-› Como o lead deverá avançar de uma etapa para outra?
+- Como o lead deverá avançar de uma etapa para outra?
+
+### 06      CRM E ACOMPANHAMENTO
 
 
-06      CRM E ACOMPANHAMENTO
+- O que deverá ser acompanhado?
 
+- Quais informações precisam ser registradas?
 
-› O que deverá ser acompanhado?
-
-› Quais informações precisam ser registradas?
-
-› Quais indicadores serão analisados?
-
+- Quais indicadores serão analisados?
 
 Por que este documento existe: a estratégia de um cliente não pode partir de suposição. Este roteiro garante
 que todo estudo passe pelos mesmos temas, na mesma ordem, e que nenhuma pergunta relevante fique sem
 resposta antes da apresentação da estratégia — é ele que sustenta a conclusão do estudo, da leitura de
 mercado à definição do que será acompanhado no CRM.
 
-
-                                         GREAT — Estudo Estruturado do Cliente
-```
-
-</details>
+GREAT — Estudo Estruturado do Cliente
