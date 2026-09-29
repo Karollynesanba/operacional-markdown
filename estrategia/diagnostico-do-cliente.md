@@ -4,19 +4,8 @@
 **Conteúdo integral convertido para Markdown:** `Diagnostico_do_Cliente.pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
-## Página 1
-
-### ESTUDO ESTRUTURADO
-
-Diagnóstico do
-Cliente
-
 Guia de perguntas para a construção da estratégia de cada cliente —
 da leitura de mercado ao acompanhamento em CRM.
-
-GREAT                                                      Assessoria GREAT · Planejamento Estratégico
-
-## Página 2
 
 Sobre este documento
 
@@ -29,14 +18,12 @@ respostas que o gestor chega à conclusão do estudo e define a estratégia do c
 
 ### 00       DIAGNÓSTICO DO CLIENTE
 
-
 - Qual é a situação atual do cliente?
 
 Descrever brevemente como funciona a operação atualmente — marketing, vendas — e quais são os principais problemas
 identificados.
 
 ### 01       MERCADO E CLIENTE
-
 
 - Qual é o mercado de atuação do cliente?
 
@@ -48,7 +35,6 @@ identificados.
 
 ### 02       POSICIONAMENTO E MARCA
 
-
 - Como o cliente deve ser percebido pelo mercado?
 
 - Qual espaço ele deve ocupar na mente do consumidor?
@@ -59,10 +45,7 @@ identificados.
 
 GREAT — Estudo Estruturado do Cliente
 
-## Página 3
-
 ### 03      OFERTA E COMUNICAÇÃO
-
 
 - O que vamos vender/priorizar?
 
@@ -72,7 +55,6 @@ GREAT — Estudo Estruturado do Cliente
 
 ### 04      DISTRIBUIÇÃO E ALCANCE
 
-
 - Qual público e região vamos priorizar?
 
 - Quais canais vamos utilizar?
@@ -80,7 +62,6 @@ GREAT — Estudo Estruturado do Cliente
 - Quais públicos vamos trabalhar?
 
 ### 05      FUNIL
-
 
 - Qual estrutura de funil será utilizada?
 
@@ -91,7 +72,6 @@ GREAT — Estudo Estruturado do Cliente
 - Como o lead deverá avançar de uma etapa para outra?
 
 ### 06      CRM E ACOMPANHAMENTO
-
 
 - O que deverá ser acompanhado?
 

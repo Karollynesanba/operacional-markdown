@@ -4,28 +4,7 @@
 **Conteúdo integral convertido para Markdown:** `Metodologia_Case_Raquel.pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
-## Página 1
-
-### A S S E S S O R I A   G R E A T
-
-
-### PLAYBOOK DE METODOLOGIA
-
-
-### A METODOLOGIA
-
-
-### PARTE 1 — A METODOLOGIA  →
-
-
-### PARTE 2 — GUIA DE APLICAÇÃO  →
-
-
-### ASSESSORIA GREAT
-
-## Página 2
-
-INTRODUÇÃO                                                                                   ← VOLTAR AO INÍCIO
+INTRODUÇÃO
 Sobre Este Documento
 
 Este material documenta a metodologia aplicada pela GREAT, usando como referência o
@@ -34,14 +13,12 @@ geram resultado consistente.
 
 ### POR QUE ESSE CASE IMPORTA
 
-
 Procedimentos íntimos lidam com um obstáculo que a maioria dos outros nichos de estética não
 enfrenta: o assunto é sensível, e o lead precisa sentir segurança antes de avançar para o
 contato. A Raquel teve sucesso porque toda a estrutura — de quem é o público até a última
 etapa do funil — foi pensada para construir essa confiança antes de pedir qualquer ação.
 
 ### O QUE VOCÊ VAI ENCONTRAR AQUI
-
 
 1. A persona certa: cruzando região, cultura local e poder de consumo.
 
@@ -58,10 +35,7 @@ etapa do funil — foi pensada para construir essa confiança antes de pedir qua
 A ordem das etapas não é opcional — pular a estruturação do Instagram antes de rodar campanha
 de Mensagens é o erro mais comum e o que mais gera lead frio e descrédito.
 
-## Página 3
-
-### ETAPA 01                                                                                     ← VOLTAR AO INÍCIO
-
+### ETAPA 01
 Persona + Localização
 
 Antes de pensar em criativo ou campanha, a primeira pergunta é: quem é a paciente ideal
@@ -69,7 +43,6 @@ considerando a região da clínica? Persona, aqui, não é um exercício teóric
 define a segmentação inteira do gerenciador de anúncios.
 
 ### PERGUNTAS QUE TODA PERSONA PRECISA RESPONDER
-
 
 A região consome estética? Existe cultura local de procedimentos?
 
@@ -80,7 +53,6 @@ Quais interesses esse público tem fora de estética (festas, moda, redes sociai
 O procedimento e o ticket médio fazem sentido com o poder de consumo dessa região?
 
 ### CASE RAQUEL: A PERSONA NA PRÁTICA
-
 
 ### CONTEXTO
 
@@ -94,13 +66,9 @@ job":
 
 ### DANCEHALLS (MUSIC)               PARTIES (EVENT)            RESORTS DE LUXO
 
-
 ### LUXURY GOODS (RETAIL)               LINGERIE
 
-## Página 4
-
-### ETAPA 02                                                                                      ← VOLTAR AO INÍCIO
-
+### ETAPA 02
 Instagram Como Portfólio
 
 Em procedimentos íntimos, o Instagram não é um canal de "presença digital" — é o ativo
@@ -108,7 +76,6 @@ que decide se o lead vai confiar o suficiente para chamar no WhatsApp. Sem essa 
 pronta, nenhuma campanha de tráfego deve ser priorizada.
 
 ### O QUE O PERFIL PRECISA TER
-
 
 Prova social: o máximo de resultados possível, com volume de posts para o lead sempre ter
 mais conteúdo para consumir.
@@ -124,7 +91,6 @@ jaleco usado durante o procedimento.
 
 ### COMO COMUNICAR UM ASSUNTO SENSÍVEL
 
-
 A comunicação precisa ser direta e fácil de entender: falar sobre uma dor comum do público e
 apresentar a solução. O antes e depois é a peça central — é a maior curiosidade de quem
 considera um procedimento íntimo — e deve sempre usar tarjas, por se tratar de conteúdo
@@ -136,24 +102,16 @@ O perfil @_draraquelcastro segue exatamente essa estrutura: presença constante 
 e depois com tarjas, comunicação direta sobre a dor e a solução, e uma identidade visual que
 reforça "Doutora" em cada peça publicada.
 
-## Página 5
-
-### ETAPA 02 · ILUSTRAÇÃO                                                                       ← VOLTAR AO INÍCIO
-
+### ETAPA 02 · ILUSTRAÇÃO
 Perfil Real da Dra. Raquel
 
 O perfil @_draraquelcastro na prática: prova social, stories fixados com resultados, destaques
 de feedbacks e até a participação como colunista no SBT — tudo reforçando credibilidade antes
 mesmo do lead chegar ao WhatsApp.
 
-### PRINT REAL
-
 Perfil do Instagram @_draraquelcastro
 
-## Página 6
-
-### ETAPA 03                                                                                        ← VOLTAR AO INÍCIO
-
+### ETAPA 03
 O Funil de Três Frentes
 
 O funil usa apenas dois tipos de público: o público de persona (de interesses, chamado
@@ -161,7 +119,6 @@ internamente de "público do job") e o público de Remarketing. Cada campanha te
 função específica de qualificar e educar o público.
 
 ### PÚBLICO DE REMARKETING                                        PÚBLICO DE PERSONA
-
 
 ### ALCANCE                                                      SEGUIDORES
 
@@ -172,7 +129,6 @@ outras campanhas — sem deixar o público                      conhecer o portf
 quente esfriar.
 
 ### PÚBLICO DE PERSONA                                            PÚBLICO DE REMARKETING
-
 
 ### MENSAGENS · NOVOS LEADS                                      MENSAGENS · REMARKETING
 
@@ -186,24 +142,16 @@ WhatsApp.
 O público de persona (de interesses) é chamado internamente de "público do job" — é o mesmo
 público em todas as campanhas que não são de Remarketing.
 
-## Página 7
-
-### ETAPA 03 · ILUSTRAÇÃO                                                                    ← VOLTAR AO INÍCIO
-
+### ETAPA 03 · ILUSTRAÇÃO
 Gerenciador de Anúncios da Raquel
 
 As quatro campanhas reais rodando na conta de Raquel — note os nomes batendo exatamente
 com a estrutura descrita: "Reconhecimento/Remarketing Infinito" (Alcance), "Mensagens - Great
 - REMARKETING", "Mensagens - Great" (novos leads) e "Seguidores - Great".
 
-### PRINT REAL
-
 Gerenciador de Anúncios — conta Raquel Castro
 
-## Página 8
-
-### ETAPA 03 — CONTINUAÇÃO                                                                      ← VOLTAR AO INÍCIO
-
+### ETAPA 03 — CONTINUAÇÃO
 Por Que Essa Estrutura Funciona
 
 O funil não é uma sequência rígida de "passo 1, passo 2, passo 3" — é um ecossistema
@@ -212,7 +160,6 @@ junto com a persona certa e o Instagram estruturado, que faz o resultado da Raqu
 replicável.
 
 ### OS TRÊS PILARES TRABALHANDO JUNTOS
-
 
 1. Persona certa: garante que o investimento em anúncio chegue em quem realmente tem perfil
 e poder de consumo para o procedimento.
@@ -230,10 +177,7 @@ Raquel não teve sucesso por um criativo isolado ou uma campanha "que performou 
 resultado vem da estrutura completa funcionando em conjunto — e é exatamente essa estrutura
 que deve ser replicada para outros clientes do nicho de estética íntima.
 
-## Página 9
-
-### ETAPA 04                                                                                        ← VOLTAR AO INÍCIO
-
+### ETAPA 04
 Estratégia de Conversão
 
 Além do funil de anúncios, um dos grandes diferenciadores da Raquel é a forma como ela
@@ -242,7 +186,6 @@ simples e muito eficaz: preço de entrada acessível, combo apresentado apenas
 presencialmente.
 
 ### COMO FUNCIONA NA PRÁTICA
-
 
 Lead chega ao WhatsApp
 1. Já passou pelo Instagram e pelos criativos do funil — chega educado e curioso, mas ainda
@@ -258,7 +201,6 @@ apresentado. Quem está lá é muito mais fácil de converter.
 
 ### POR QUE FUNCIONA
 
-
 O preço da sessão unitária é acessível o suficiente para o lead aceitar ir até a clínica — a
 barreira de entrada cai muito.
 
@@ -268,10 +210,7 @@ momento em que a conversão é muito mais fácil.
 Se o combo fosse passado via WhatsApp, o preço mais elevado assustaria e o lead
 provavelmente não iria até a clínica.
 
-## Página 10
-
-### CONCLUSÃO                                                                                     ← VOLTAR AO INÍCIO
-
+### CONCLUSÃO
 Por Que a Raquel Deu Certo
 
 O case da Raquel não é sobre um anúncio que performou bem — é sobre uma estrutura
@@ -279,7 +218,6 @@ completa, onde cada etapa prepara o terreno para a próxima. É esse encadeament
 deve ser replicado, e não uma peça isolada da metodologia.
 
 ### RESUMO DO QUE TORNOU O CASE REPLICÁVEL
-
 
 A persona foi validada cruzando região, cultura local e comportamento de consumo real.
 
@@ -301,17 +239,9 @@ cliente do nicho não repetir o resultado da Raquel.
 "A estrutura certa, para o público certo, é o que transforma um
 procedimento sensível em um funil de confiança."
 
-## Página 11
-
-### A S S E S S O R I A   G R E A T
-
-
 ### GUIA DE APLICAÇÃO
 
-## Página 12
-
-### PARTE 2 · GUIA PRÁTICO                                                                               ← VOLTAR AO INÍCIO
-
+### PARTE 2 · GUIA PRÁTICO
 Passo a Passo de Aplicação
 
 Use esta sequência ao aplicar a metodologia em um novo cliente. Cada etapa depende da
@@ -342,10 +272,7 @@ credibilidade pra Raquel e fez os leads chegarem muito mais educados já no perf
 pelo público e começar a saturar, testar novos ângulos. O objetivo é o lead chegar educado no
 WhatsApp — resultado de todo o ecossistema funcionando junto.
 
-## Página 13
-
-### PARTE 2 · VISUALIZAÇÃO DO PROCESSO                                                                   ← VOLTAR AO INÍCIO
-
+### PARTE 2 · VISUALIZAÇÃO DO PROCESSO
 Fluxograma da Metodologia
 
 Caminho completo: da definição da persona até o lead chegar qualificado no WhatsApp.
@@ -354,21 +281,17 @@ Público de Persona ("público do job")          Público de Remarketing
 
 ### DIAGNÓSTICO DA OPERAÇÃO
 
-
 Região · Procedimento · Instagram · Seguidores · Autoridade · Verba · Atendimento · Ticket médio · Combo
 
 ### PERSONA + LOCALIZAÇÃO
-
 
 Região, cultura e poder de consumo
 
 ### INVESTIMENTO DEFINIDO
 
-
 Permite testar e ajustar campanhas
 
 ### INSTAGRAM ATIVO E CREDÍVEL
-
 
 Prova social e credibilidade (TV, imprensa)
 
@@ -387,13 +310,9 @@ As quatro frentes convergem para o **lead qualificado no WhatsApp**, que já pas
 
 ### LEAD QUALIFICADO NO WHATSAPP
 
-
 Já passou pelo perfil ou pelos criativos
 
-## Página 14
-
-### PARTE 2 · CHECKLIST DE APLICAÇÃO                                                                       ← VOLTAR AO INÍCIO
-
+### PARTE 2 · CHECKLIST DE APLICAÇÃO
 Checklist para o Gestor
 
 Use esta lista antes de aplicar a metodologia em qualquer cliente. Começa pelo diagnóstico

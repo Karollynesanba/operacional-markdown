@@ -4,24 +4,11 @@
 **Conteúdo integral convertido para Markdown:** `Playbook_Editor_de_Video.pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
-## Página 1
-
-### ASSESSORIA GREAT
-
-
-Playbook do
-Editor de Vídeo
-
 Rotina, fluxo de produção, validação de criativos e
 aprovação de mídias — sênior e júnior em um só
 documento.
 
-Uso interno · Assessoria GREAT
-
-## Página 2
-
 ### 1. Visão Geral
-
 
 Este documento reúne as diretrizes de trabalho do editor de vídeo da Assessoria GREAT: rotina diária,
 divisão de responsabilidades entre sênior e júnior, o fluxo de classificação e validação de criativos, o
@@ -31,7 +18,6 @@ fluxo de aprovação de mídias e a planilha de controle de produção.
 comporta de forma diferente entre os dois níveis, isso é sinalizado com as etiquetas:
 
 ### SÊNIOR         JÚNIOR        AMBOS
-
 
 Equipe atual
 
@@ -46,10 +32,7 @@ Este documento incorpora o conteúdo do documento de referência Fluxo de Classi
 de Criativos como Seção 4. Em caso de dúvida sobre um detalhe muito específico, o documento
 original continua valendo como fonte completa.
 
-## Página 3
-
 ### 2. Rotina Diária
-
 
 A rotina abaixo vale igualmente para sênior e júnior no início do dia. Depois da conclusão das
 pendências, a rotina se divide conforme a responsabilidade de cada nível (ver Seção 3).
@@ -76,10 +59,7 @@ qualquer produção nova.
 Fora esses passos iniciais, o editor de vídeo não segue uma rotina fixa hora a hora — o restante do
 dia é ocupado pela produção das demandas descritas na Seção 3.
 
-## Página 4
-
 ### 3. Divisão de Responsabilidades
-
 
 JÚNIOR      Demanda do júnior
 
@@ -122,8 +102,6 @@ os fluxos das Seções 4 e 5 normalmente (sem etapa de gravação).
 
 - Edita o vídeo.
 
-## Página 5
-
 - Envia para aprovação interna do líder de estratégia (ciclo de ajuste se necessário — ver
 Seção 5).
 
@@ -133,10 +111,7 @@ Seção 5).
 
 - Aprovado pelo cliente, sobe na plataforma da GREAT.
 
-## Página 6
-
 ### 4. Fluxo de Classificação e Validação de Criativos
-
 
 Documento original, reproduzido na íntegra.
 
@@ -160,8 +135,6 @@ novo. A elegibilidade pra teste só vem depois: quando o cliente já tiver resul
 semanas de resultado bom), ou quando todos os POPs já tiverem sido usados naquela operação e
 nenhum tiver dado resultado. O critério completo está nas páginas finais deste documento.
 
-## Página 7
-
 ### 2. Resultado do teste e graduação a POP
 
 1. O editor sênior produz a onda de teste para 5 a 6 clientes, com 3 vídeos de cada cliente usando o mesmo modelo.
@@ -180,8 +153,6 @@ O critério vale igual pros dois sentidos: 70% a 100% dos vídeos da onda confir
 por muito tempo. Ao validar bom, o modelo já é POP e passa pro editor júnior, que segue produzindo
 esse modelo no fluxo normal.
 
-## Página 8
-
 ### 3. Quando o cliente para de performar
 
 1. Identificar o cliente sem resultado bom, cujo vídeo ou arte atual parou de performar.
@@ -196,7 +167,6 @@ criativo genuinamente novo pra testar. O paliativo de arte estática só entra q
 sênior conseguem resolver — com teto de até 1 semana.
 
 ### 4. Critério — aprovação, produção e resposta válida
-
 
 As páginas a seguir são o critério completo por trás do fluxo: quando um criativo pode ser considerado
 validado, quando deve ser descartado, e o que acontece quando ele se torna um modelo padrão
@@ -213,8 +183,6 @@ não) resposta real no funil (Mensagens ou Seguidores). Isso é o que decide se 
 
 Um criativo só entra na contagem de validação do item 4 depois de aprovado dentro do grupo E com a
 campanha ativa no gerenciador.
-
-## Página 9
 
 ### OBSERVAÇÃO: COMO A PRODUÇÃO DO CRIATIVO FUNCIONA
 
@@ -243,7 +211,6 @@ desqualificado e conta como sinal ruim.
 
 ### 5. Critério — elegibilidade e tamanho da onda
 
-
 ### 3. ELEGIBILIDADE DO CLIENTE PARA RECEBER CRIATIVO DE TESTE
 
 Um cliente se torna elegível pra teste por um de dois caminhos. Os dois são igualmente válidos — o
@@ -270,8 +237,6 @@ A onda de teste reúne 5 a 6 clientes, com 3 vídeos cada do mesmo modelo (varia
 entre eles) — total de 15 a 18 vídeos por onda. Os clientes são agrupados por um critério de cada vez:
 mesma região (verba pode variar) OU verba parecida (região pode variar), nunca os dois
 
-## Página 10
-
 simultaneamente. Se a base disponível for maior, divide em ondas sucessivas em vez de diluir o
 volume entre mais clientes.
 
@@ -285,7 +250,6 @@ O critério é o mesmo nos dois sentidos. Ao validar bom, o modelo já é POP e 
 Cada vídeo tem no máximo 3 a 5 dias pra ser validado, pra a decisão não travar.
 
 ### 6. Critério — paliativo e transição pra POP
-
 
 ### 5. QUANDO O CLIENTE PARA DE PERFORMAR
 
@@ -316,10 +280,7 @@ valer independente de quem está aplicando a decisão. Assim, se o editor não p
 em determinada semana, o coordenador ou gestor responsável usa a mesma régua documentada aqui,
 sem depender de uma explicação verbal no momento.
 
-## Página 11
-
 ### 5. Planilha de Controle de Produção
-
 
 Para que essa planilha existe
 
@@ -328,8 +289,7 @@ vídeo — para registrar, todos os dias, quais clientes receberam vídeo, quant
 recebeu e em que status cada entrega está. Ela existe para dar visibilidade de volume, de
 cumprimento de meta e de andamento das aprovações.
 
-### ABRIR PLANILHA — CONTROLE DESIGN E VÍDEO
-
+**Abrir planilha — Controle Design e Vídeo**
 
 Estrutura do arquivo
 
@@ -359,8 +319,6 @@ arquivo.
 
 Nota sobre a aba Dashboard: tem indicadores de produtividade e status de entrega por gestor de conta,
 de uso interno do coordenador — não faz parte do escopo operacional deste playbook.
-
-## Página 12
 
 Estrutura da grade de controle
 
@@ -406,8 +364,6 @@ presencialmente.
 Aprovação interna — Líder de Estratégias
 
 Antes de qualquer vídeo chegar ao cliente, ele passa por uma revisão interna:
-
-## Página 13
 
 - Editor de vídeo finaliza a produção do vídeo.
 

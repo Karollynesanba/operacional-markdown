@@ -4,19 +4,6 @@
 **Conteúdo integral convertido para Markdown:** `Playbook_Estruturacao_Perfil_Instagram_GREAT (4).pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
-## Página 1
-
-### PLAYBOOK OPERACIONAL
-
-Estruturação de perfil -
-Instagram
-
-### DOCUMENTO INTERNO
-
-### ASSESSORIA GREAT                       USO EXCLUSIVO DA EQUIPE
-
-## Página 2
-
 ### 01 — VISÃO GERAL
 
 Objetivo
@@ -57,8 +44,6 @@ Ponto de partida obrigatório: nenhuma alteração de perfil é iniciada antes d
 Operacional, onde é definido o procedimento foco usado no posicionamento do perfil (ex.: Harmonização
 Facial).
 
-## Página 3
-
 ### 02 — EXECUÇÃO
 
 Passo a Passo de Estruturação
@@ -68,7 +53,6 @@ biografia, destaques e feed.
 
 ### 1. Nome do Perfil
 
-
 Inclui o procedimento foco definido na reunião de Planejamento Operacional, facilitando a identificação no
 momento da pesquisa.
 
@@ -77,7 +61,6 @@ Exemplo aplicado                                                                
 Dr. Roberto Diniz | Harmonização Facial
 
 ### 2. Biografia
-
 
 A bio deve reunir, nesta ordem, os quatro elementos abaixo — todos obrigatórios:
 
@@ -96,14 +79,11 @@ Referência de bio — perfil Dra. Julie Albernaz
 
 Referência de nome — perfil Dra. Julie Albernaz
 
-## Página 4
-
 ### 02 — EXECUÇÃO
 
 Destaques e Feed
 
 ### 3. Organização dos Destaques
-
 
 - Procedimento foco sempre como primeiro destaque
 
@@ -115,7 +95,6 @@ SBT, Feedbacks, Londres)
 
 ### 4. Organização do Feed
 
-
 Verificar se o cliente possui fotos de antes e depois no perfil:
 
 - Se possuir: selecionar os melhores resultados e fixar 3 publicações no topo do feed
@@ -123,14 +102,11 @@ Verificar se o cliente possui fotos de antes e depois no perfil:
 - Se não possuir: solicitar ao designer a criação das artes de antes e depois, a partir do material enviado pelo
 cliente no grupo
 
-## Página 5
-
 Referência — 3 posts fixados de antes e depois
 
 Referência real — perfil de cliente da GREAT
 
 ### 5. Pendência de Produção de Posts
-
 
 Se, ao concluir a estruturação, um ou mais posts de antes e depois ainda estiverem pendentes de
 produção pelo designer:
@@ -143,8 +119,6 @@ posts já fixados, se houver
 - Sinalizar no grupo que o post foi publicado
 
 - Enviar prints do perfil com e sem a publicação, confirmando a publicação
-
-## Página 6
 
 ### 03 — REFERÊNCIA
 
@@ -178,8 +152,6 @@ Ref.: perfil de cliente da GREAT
 
 Ref.: Dra. Julie Albernaz
 
-## Página 7
-
 ### 04 — ENCERRAMENTO
 
 Finalização
@@ -189,7 +161,6 @@ com o cliente e atualização da planilha.
 
 ### 1. Registro Interno
 
-
 Assim que o acesso é obtido junto ao(à) Dr.(a), isso é confirmado no grupo interno de tráfego/vendas do
 cliente. Ao final da estruturação, o mesmo grupo recebe dois prints de tela cheia do perfil — "Antes" e
 "Depois" — registrando visualmente o que mudou.
@@ -198,11 +169,8 @@ Exemplo real — confirmação de acesso e registro de Antes/Depois no grupo int
 
 ### 2. Comunicação com o Cliente
 
-
 No grupo do cliente, enviar um resumo direto do que foi alterado na estruturação — sem necessidade de
 prints, apenas texto:
-
-## Página 8
 
 Exemplo aplicado                                                                                                  PADRÃO GREAT
 
@@ -211,7 +179,6 @@ feed. Qualquer dúvida, estamos à disposição 🙂
 
 ### 3. Atualização da Planilha
 
-
 - Nome
 - Biografia
 
@@ -219,8 +186,6 @@ feed. Qualquer dúvida, estamos à disposição 🙂
 - Feed
 
 Registrar também a data de conclusão da estruturação na planilha.
-
-## Página 9
 
 ### 05 — CASOS ESPECIAIS
 

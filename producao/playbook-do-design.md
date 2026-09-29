@@ -4,14 +4,6 @@
 **Conteúdo integral convertido para Markdown:** `Playbook_do_Design_Completo (2).pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
-## Página 1
-
-### PLAYBOOK DO
-
-### DESIGN
-
-## Página 2
-
 O que você vai aprender
 
 Este playbook reúne, em um só lugar, tudo o que o designer gráfico da GREAT
@@ -55,23 +47,12 @@ O que fazer, quando fazer e como fazer.
 
 Acessar documento →
 
-## Página 3
-
 8. Copy e Canva: Recursos do Designer
 O prompt para gerar a copy no ChatGPT e o link de acesso ao Canva.
 
 Acessar documento →
 
-## Página 4
-
-### DOCUMENTO 1
-
-
-### RESPONSABILIDADES DO
-
-### DESIGNER GRÁFICO
-
-## Página 5
+## Responsabilidades do designer gráfico
 
 O papel do design na GREAT
 
@@ -110,8 +91,6 @@ e depois”, cria a arte com imagem da internet ou gerada por IA
 Líder de estratégias aprova internamente (ou devolve para ajuste)
 
 ↓
-
-## Página 6
 
 Cliente aprova no grupo (ou pede ajuste, retornando à aprovação interna)
 
@@ -153,25 +132,12 @@ O prompt fixo usado para gerar a copy no ChatGPT e o link de acesso ao Canva.
 
 Em resumo
 
-## Página 7
-
 O designer gráfico é responsável por um volume fixo e constante de entregas,
 dentro de um fluxo que envolve onboarding, estratégia e o próprio cliente.
 Entender esse encadeamento é o que torna possível manter a qualidade e o ritmo
 de 2 a 3 artes por semana, para todos os clientes, sem exceção.
 
-## Página 8
-
-### DOCUMENTO 2
-
-
-### COMO ACESSAR O
-
-### BRIEFING
-
-### NA PLATAFORMA GREAT
-
-## Página 9
+## Como acessar o briefing na Plataforma GREAT
 
 Para que serve esse passo a passo
 
@@ -192,8 +158,6 @@ No menu lateral esquerdo, clique em CRM Operacional. Você verá a lista
 completa de todos os clientes da agência, com informações de status e criativos
 pendentes.
 
-## Página 10
-
 Tela “CRM Operacional” — lista de todos os clientes da agência.
 
 3. Clicar no cliente desejado
@@ -202,8 +166,6 @@ ficha, você encontra as informações da conta, status, criativos e — o que
 precisamos — a seção Arquivos, onde o briefing está armazenado.
 
 Ficha do cliente — localize a seção “Arquivos” com o PDF do briefing.
-
-## Página 11
 
 4. Clicar no arquivo para abrir o briefing
 Na seção Arquivos, clique no arquivo PDF listado. O briefing abre diretamente —
@@ -219,16 +181,7 @@ no CRM Operacional. Ele é preenchido pelo próprio cliente e conferido pelo ges
 de onboarding na reunião de Start. Contém os dados essenciais para a produção
 das artes: nome do negócio, responsável, endereço e acessos necessários.
 
-## Página 12
-
-### DOCUMENTO 3
-
-
-### COMO SUBIR UM CRIATIVO
-
-### NA PLATAFORMA GREAT
-
-## Página 13
+## Como subir um criativo na Plataforma GREAT
 
 Quando usar
 
@@ -251,8 +204,6 @@ aguardam para serem subidos em cada conta.
 
 Tela “CRM Operacional” — lista de clientes e criativos pendentes por cliente.
 
-## Página 14
-
 2. Abrir a ficha do cliente
 Clique no nome do cliente para abrir a ficha completa, com as informações da
 conta e o card “Criativos”, dividido entre “Anúncios para Subir” e “Anúncios
@@ -263,8 +214,6 @@ Ficha do cliente — card de Criativos com o botão “Adicionar Criativo”.
 3. Clicar em “Adicionar Criativo”
 Abre o modal “Adicionar Criativo — [nome do cliente]”, com o campo
 “Responsável pela Arte” e a área de upload de arquivos (fotos, vídeos, áudios).
-
-## Página 15
 
 Modal de cadastro do criativo, recém-aberto.
 
@@ -278,8 +227,6 @@ Campo “Responsável pela Arte” preenchido.
 Clique em “Clique para selecionar arquivos” e escolha o arquivo final, já aprovado
 pelo cliente.
 
-## Página 16
-
 Arquivo anexado, pronto para envio.
 
 6. Clicar em “Enviar”
@@ -287,8 +234,6 @@ O criativo passa a aparecer na coluna “Anúncios para Subir” da ficha do cli
 identificado com “Arte: [seu nome]” e a data/hora do envio.
 
 Criativo cadastrado na ficha do cliente, aguardando publicação pelo gestor de tráfego.
-
-## Página 17
 
 Quando a arte é para o Instagram do cliente
 
@@ -321,19 +266,11 @@ mesmo.
 O designer também pode sinalizar o destino da arte via “Meu Dia” na plataforma
 GREAT ou pessoalmente ao gestor.
 
-## Página 18
-
 Aba “Meu Dia” na Plataforma GREAT — pode ser usada para sinalizar o destino da arte ao gestor.
 
-## Página 19
-
-### DOCUMENTO 3
-
-### PLANILHA DE CONTROLE DE PRODUÇÃO
+## Planilha de controle de produção
 
 Playbook do Design — Assessoria GREAT.
-
-## Página 20
 
 ### Para que essa planilha existe
 
@@ -365,8 +302,6 @@ Cada aba tem um cadeado de proteção associado ao seu respectivo profissional:
 - A Amanda só consegue editar a própria página, na aba Amanda.
 - O André só consegue editar a própria página, na aba André.
 
-## Página 21
-
 - As demais abas — incluindo as páginas dos colegas e o Dashboard — ficam disponíveis apenas para visualização ou edição do **coordenador**, que tem acesso irrestrito a todo o arquivo.
 
 {% hint style="info" %}
@@ -394,8 +329,6 @@ Cada célula preenchida com a quantidade de artes ou vídeos é colorida de acor
 
 - **Branco:** a arte ou o vídeo ainda será produzido, ou está em produção no momento.
 
-## Página 22
-
 - **Azul:** a arte ou o vídeo foi enviado e está aguardando aprovação do líder de estratégias, correspondente à aprovação interna.
 - **Amarelo:** a arte ou o vídeo está aguardando aprovação do cliente. Quando o cliente pediu um ajuste e a peça está sendo corrigida para reenvio, ela continua amarela até a aprovação final.
 - **Verde:** a arte ou o vídeo foi aprovado pelo cliente.
@@ -403,20 +336,9 @@ Cada célula preenchida com a quantidade de artes ou vídeos é colorida de acor
 
 No exemplo real da aba André, “Karina Cobucci” aparece em vermelho, indicando reprovação definitiva; “Nathalie Sousa” aparece em amarelo, aguardando aprovação do cliente; e “Rempel Morais” aparece em azul, aguardando aprovação interna. Os demais clientes com número em branco ou verde seguem em produção ou já foram aprovados.
 
-## Página 23
-
 Encerramento do Documento 3 — Planilha de Controle de Produção.
 
-## Página 24
-
-### DOCUMENTO 5
-
-
-### FLUXO ATÉ A DEMANDA
-
-### CHEGAR NO DESIGNER
-
-## Página 25
+## Fluxo até a demanda chegar ao designer
 
 Formação do grupo do cliente
 
@@ -445,16 +367,7 @@ faltem na hora do designer produzir a arte.
 É esse briefing que serve de referência para a produção das artes daquele cliente — é a
 partir dele que o designer entende o que precisa ser comunicado em cada peça.
 
-## Página 26
-
-### DOCUMENTO 6
-
-
-### SISTEMA DE APROVAÇÃO
-
-### DA ARTE
-
-## Página 27
+## Sistema de aprovação da arte
 
 Aprovação interna — Líder de Estratégias
 
@@ -492,8 +405,6 @@ A arte é marcada em verde na planilha e segue para o destino final.
 Quando o cliente realmente não gostou da arte e não quer mais aquela peça — ou
 quer um tipo de arte diferente — a arte é marcada em vermelho na planilha.
 
-## Página 28
-
 Cobrando a aprovação do cliente
 Sempre que o designer for cobrar a aprovação de uma arte que está parada no
 grupo do cliente, deve marcar/mencionar o cliente diretamente na
@@ -519,16 +430,7 @@ vai postar, não é necessário enviar ao gestor.
 O designer pode sinalizar o destino pessoalmente, por WhatsApp privado, ou pela aba
 “Meu Dia” da plataforma — detalhados no Documento 2.
 
-## Página 29
-
-### DOCUMENTO 7
-
-
-### ROTINA DIÁRIA
-
-### DO DESIGNER
-
-## Página 30
+## Rotina diária do designer
 
 Rotina Diária
 
@@ -576,8 +478,6 @@ Entregar a arte         Se for para tráfego pago: sobe na Plataforma GREAT
 ao destino final        (ver Documento 2).
 Se for para o Instagram do cliente: envia no
 
-## Página 31
-
 Após                                         WhatsApp privado do gestor responsável (ou aguarda
 aprovação do                                 instrução do cliente caso ele mesmo vá postar).
 cliente
@@ -591,16 +491,7 @@ Todo cliente com criação de conteúdo no plano recebe de 2 a 3 artes por
 semana, sem exceção. Esse ritmo é o que organiza a prioridade do dia do
 designer.
 
-## Página 32
-
-### DOCUMENTO 8
-
-
-### COPY E CANVA:
-
-### RECURSOS DO DESIGNER
-
-## Página 33
+## Copy e Canva: recursos do designer
 
 Quando usar
 
@@ -615,7 +506,6 @@ O designer envia o prompt abaixo ao ChatGPT, ajustando o tema de acordo com o
 procedimento do cliente daquela arte (botox, emagrecimento, preenchimento, etc.):
 
 ### PROMPT
-
 
 ### TÍTULO FORTE
 
@@ -651,8 +541,6 @@ Procedimento seguro
 Tecnologia avançada
 Profissional especializado
 Atendimento personalizado
-
-## Página 34
 
 Resultados naturais
 
@@ -697,8 +585,6 @@ Adaptando por tema
 O mesmo prompt serve para qualquer procedimento — o designer só precisa
 indicar o tema desejado (botox, emagrecimento, preenchimento, etc.) para o
 ChatGPT aplicar o modelo e devolver a copy já pronta para aquele assunto.
-
-## Página 35
 
 Acesso ao Canva
 

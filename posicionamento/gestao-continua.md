@@ -4,26 +4,12 @@
 **Conteúdo integral convertido para Markdown:** `Playbook - Gestão Contínua de Posicionamento (1).pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
-## Página 1
-
-Gestão Contínua de
-Posicionamento
-
-### PLAYBOOK DO ESPECIALISTA EM POSICIONAMENTO
-
-
-### ASSESSORIA GREAT
-
-## Página 2
-
 ### 1. Diagnóstico e Objetivo
-
 
 Na percepção do cliente, o diferencial da GREAT é o atendimento. Mas a análise interna dos
 gestores de tráfego, baseada em dados de conversão, mostra outro cenário:
 
 ### POSICIONAMENTO RUIM                                           POSICIONAMENTO BOM
-
 
 O atendimento precisa convencer o                             O atendimento só precisa agendar — o
 paciente além de agendar. Como grande                         perfil já convenceu o paciente antes do
@@ -41,7 +27,6 @@ essa estruturação.
 
 ### 2. Responsabilidades do Especialista em Posicionamento
 
-
 - Envio do cronograma ao cliente, avisando com antecedência o que e quando a GREAT vai
 precisar dele
 - Direcionamento da demanda de produção (roteiro, edição, design) para a equipe responsável
@@ -58,10 +43,7 @@ Importante: a GREAT não publica diretamente no perfil do cliente. Isso pertence
 social media e não faz parte do serviço contratado — o papel do Especialista é direcionar a
 produção e acompanhar a publicação. Quem publica é sempre o próprio cliente.
 
-## Página 3
-
 ### 3. Carteira Piloto
-
 
 A função será validada com uma carteira piloto de 20 clientes, antes de qualquer expansão para o
 restante da base (100+ clientes).
@@ -76,7 +58,6 @@ construção da operação.                                      íntimo ou inve
 
 ### 4. Fluxo de Trabalho
 
-
 1. Planejamento mensal — o gestor de tráfego do cliente organiza o cronograma de conteúdo
 do mês, seguindo os temas e dias de postagem fixos, e lidera com o cliente o alinhamento
 estratégico sobre focar mais no posicionamento do que no atendimento.
@@ -88,8 +69,7 @@ cliente como aviso, antecipando o que e quando a GREAT vai precisar dele.
 GREAT, junto com instruções de como gravar; o cliente grava o vídeo; a edição fica com os
 editores de vídeo da GREAT; o carrossel e as artes fixas de Stories ficam com o design da
 
-### GREAT.
-
+GREAT.
 
 4. Aprovação da mídia — a peça produzida é enviada ao grupo do cliente para aprovação.
 
@@ -105,10 +85,7 @@ publique.
 8. Checagem de publicação — confirma se o conteúdo aprovado foi efetivamente publicado no
 perfil, com cobrança ao cliente até 3 vezes ao dia caso a publicação não aconteça.
 
-## Página 4
-
 ### 5. Cronograma de Conteúdo
-
 
 Publicações no feed ocorrem sempre às segundas, quartas e sextas-feiras. Os 4 temas de vídeo
 são fixos e se repetem a cada mês.
@@ -148,10 +125,7 @@ Regra fixa: todo Stories — fixo ou produzido pela cliente — precisa ter CTA:
 para o WhatsApp, ou CTA levando para o perfil. No feed e reels, o CTA leva sempre para o link da
 bio.
 
-## Página 5
-
 ### 6. Kickoff com o Cliente
-
 
 Antes de iniciar a gestão contínua, o Especialista em Posicionamento realiza uma reunião de
 alinhamento com o cliente selecionado, com dois objetivos:

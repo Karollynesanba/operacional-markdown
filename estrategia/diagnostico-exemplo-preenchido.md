@@ -4,19 +4,8 @@
 **Conteúdo integral convertido para Markdown:** `Diagnostico_Cliente_Exemplo_Preenchido.pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
-## Página 1
-
-### ESTUDO ESTRUTURADO · EXEMPLO PREENCHIDO
-
-Diagnóstico do
-Cliente
-
 Guia de perguntas para a construção da estratégia de cada cliente —
 da leitura de mercado ao acompanhamento em CRM.
-
-GREAT                                                    Assessoria GREAT · Planejamento Estratégico
-
-## Página 2
 
 Sobre este documento
 
@@ -28,14 +17,12 @@ Esta versão traz um exemplo de estudo já respondido, como referência de preen
 
 ### 00      DIAGNÓSTICO DO CLIENTE
 
-
 - Qual é a situação atual do cliente?
 A Dra. Raquel já possui boa presença no Instagram e autoridade no segmento de estética íntima, com conteúdo
 educativo e demonstração de procedimentos. O principal objetivo é transformar essa autoridade em um fluxo mais
 previsível de leads qualificados, avaliações e procedimentos.
 
 ### 01      MERCADO E CLIENTE
-
 
 - Qual é o mercado de atuação do cliente?
 Estética íntima feminina, com foco em preenchimento íntimo, rejuvenescimento íntimo e tratamentos relacionados à
@@ -55,10 +42,7 @@ procedimentos de maior valor agregado.
 
 GREAT — Estudo Estruturado do Cliente
 
-## Página 3
-
 ### 02      POSICIONAMENTO E MARCA
-
 
 - Como o cliente deve ser percebido pelo mercado?
 Como uma especialista em rejuvenescimento íntimo feminino, reconhecida por segurança, naturalidade,
@@ -78,7 +62,6 @@ profissional na comunicação.
 
 ### 03      OFERTA E COMUNICAÇÃO
 
-
 - O que vamos vender/priorizar?
 Preenchimento íntimo como principal oferta, utilizando o conceito de rejuvenescimento íntimo para ampliar a
 comunicação. Os demais procedimentos entram como ofertas complementares.
@@ -93,10 +76,7 @@ para gerar identificação e segurança antes da oferta.
 
 GREAT — Estudo Estruturado do Cliente
 
-## Página 4
-
 ### 04      DISTRIBUIÇÃO E ALCANCE
-
 
 - Qual público e região vamos priorizar?
 Mulheres adultas de Recife e Região Metropolitana, priorizando áreas com maior potencial de consumo e facilidade
@@ -111,7 +91,6 @@ Público frio por localização e interesses, além de públicos de engajamento 
 pessoas que já demonstraram interesse nos conteúdos.
 
 ### 05      FUNIL
-
 
 - Qual estrutura de funil será utilizada?
 Anúncio → Instagram/WhatsApp → Atendimento → Avaliação → Procedimento → Pós-venda.
@@ -129,10 +108,7 @@ comparecimento → fechamento. Leads que não avançarem devem entrar em uma rot
 
 GREAT — Estudo Estruturado do Cliente
 
-## Página 5
-
 ### 06      CRM E ACOMPANHAMENTO
-
 
 - O que deverá ser acompanhado?
 Origem dos leads, qualidade, atendimento, agendamentos, comparecimentos, fechamentos e faturamento.
@@ -146,7 +122,6 @@ Custo por lead, leads qualificados, taxa de agendamento, comparecimento, convers
 aquisição e faturamento.
 
 ### 07      RESUMO DA ESTRATÉGIA
-
 
 Posicionar a Dra. Raquel como referência em rejuvenescimento íntimo em Recife, utilizando o preenchimento
 íntimo como principal oferta de aquisição. A estratégia será baseada em autoridade + educação + identificação

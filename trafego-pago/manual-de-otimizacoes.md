@@ -4,18 +4,7 @@
 **Conteúdo integral convertido para Markdown:** `Manual_de_Otimizacoes.pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
-## Página 1
-
-### CENTRAL DO PLAYBOOK DO GESTOR DE TRÁFEGO
-
-### MANUAL DE
-
-### OTIMIZAÇÕES
-
-
 Rotina, diagnóstico e regras de otimização para campanhas ativas.
-
-## Página 2
 
 Sumário
 
@@ -38,10 +27,7 @@ Sumário
 
 07. Ações e Boas Práticas Gerais
 
-## Página 3
-
 ### 01. Introdução
-
 
 Este manual orienta a rotina de otimização de campanhas ativas de tráfego pago. Ele define o passo a passo
 de análise, os limites de custo aceitáveis por métrica e as regras de decisão para cada tipo de problema
@@ -50,7 +36,6 @@ O objetivo é padronizar o raciocínio de otimização entre os gestores de trá
 e priorizando comparação de desempenho antes de qualquer alteração.
 
 ### 02. Rotina de Entrada e Acompanhamento
-
 
 Antes de otimizar qualquer conjunto ou anúncio, toda entrada em uma conta segue esta checagem inicial:
 - Identificar o funil ativo — Alcance, Seguidores ou Mensagens.
@@ -70,7 +55,6 @@ não para forçar uma mudança.
 
 ### 03. Etapas da Análise
 
-
 Estratégia
 1. Identificar qual funil está sendo aplicado — Alcance, Seguidores ou Mensagens — e conferir o
 público utilizado de forma geral: se é um público aberto de interesse ou lookalike, e se está com
@@ -88,8 +72,6 @@ campanha de Mensagens rodando há semanas sem gerar nenhum agendamento confirmad
 pelo time comercial pode indicar que o funil não faz mais sentido para o momento atual do
 cliente — sinal para revisar o foco antes de seguir otimizando essa campanha.
 
-## Página 4
-
 Conjunto de anúncios
 Analisar público, localização, gênero, idade e posicionamentos: quais posicionamentos estão
 4. limitando o resultado; se o tamanho do público está viável (nem muito limitado, nem muito
@@ -103,10 +85,7 @@ Analisar posicionamentos, idade e a métrica principal de cada anúncio ativo.
 Sempre fazer o comparativo de desempenho entre os "braços" da operação (campanhas, conjuntos e
 anúncios ativos) antes de otimizar, entendendo o que vale a pena manter, alterar ou desativar.
 
-## Página 5
-
 ### 04. Diagnóstico por Sintoma
-
 
 Regras de decisão organizadas por tipo de problema identificado na análise.
 
@@ -152,8 +131,6 @@ anúncios a partir dessa informação.
 
 Quando a campanha está ruim
 
-## Página 6
-
 Quando a campanha está ruim
 
 - Comparar o desempenho entre campanhas do mesmo objetivo — só é possível quando há mais de uma
@@ -181,10 +158,7 @@ procedimento correto não é desativar o ruim e redirecionar a verba para o bom.
 - O procedimento correto é desativar o conjunto (ou campanha) ruim e duplicar o que já está validado, para
 alcançar uma fatia diferente do mesmo público que já provou funcionar.
 
-## Página 7
-
 ### 05. Custos Máximos de Referência
-
 
 Valores de referência de custo por resultado da métrica principal de cada campanha.
 Alcance não entra nesta tabela: é um funil de difícil mensuração direta de resultado — a própria campanha
@@ -205,10 +179,7 @@ converte e testando variações dele) ou do público, avaliando pelo CTR se o p�
 demais para a verba utilizada.
 - Seguidores: ao atingir o teto de R$ 2,90 a R$ 3,00, desativar ou substituir o criativo.
 
-## Página 8
-
 ### 06. Critério de Orçamento
-
 
 - Não existe um ponto fixo (uma métrica ou custo específico) que dispare o aumento de orçamento.
 - A ampliação depende do nível de educação do cliente sobre tráfego pago — o quanto ele entende a
@@ -220,10 +191,7 @@ orçamento — o que determina a decisão final é o cliente, não uma regra fix
 - Sempre que houver mais orçamento disponível, é melhor para a operação — mas cabe ao gestor seguir
 educando o cliente, não forçar o aumento.
 
-## Página 9
-
 ### 07. Ações e Boas Práticas Gerais
-
 
 - Sempre fazer o comparativo de desempenho dos "braços" da operação (campanhas, conjuntos e anúncios
 ativos) antes de otimizar.

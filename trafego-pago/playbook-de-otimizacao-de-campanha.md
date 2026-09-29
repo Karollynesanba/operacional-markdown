@@ -4,24 +4,12 @@
 **Conteúdo integral convertido para Markdown:** `13_Playbook_de_Otimizacao_de_Campanha.pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
-## Página 1
-
-### CENTRAL DO PLAYBOOK — GESTOR DE TRÁFEGO
-
-### OTIMIZAÇÃO DE CAMPANHAPLAYBOOK DE
-
-
 O que fazer quando posicionamento, público ou criativo
 não estão performando bem
 
-### ASSESSORIA GREAT
-
 @assessoria.greatsd
 
-## Página 2
-
 ### MENU RÁPIDO DE RESOLUÇÃO
-
 
 Clique direto no problema que você está enfrentando agora. Cada botão leva pra resposta.
 
@@ -47,7 +35,6 @@ O que o gestor decide sozinho e frequência de otimização
 
 ### ÍNDICE COMPLETO
 
-
 01. Como usar este playbook
 
 02. A campanha inteira está ruim — por onde começar
@@ -59,8 +46,6 @@ O que o gestor decide sozinho e frequência de otimização
 05. Criativo ruim ou caro
 
 06. Autonomia do gestor e cadência de otimização
-
-## Página 3
 
 01 · Como usar este playbook
 
@@ -74,16 +59,10 @@ conteúdo é dividido em:
 
 ### SEGUIDORES
 
-
 ### MENSAGENS
-
 
 Quando a regra é a mesma pros dois tipos de campanha, ela aparece uma vez só, sem
 separação.
-
-← Voltar ao Menu / Índice
-
-## Página 4
 
 02 · A campanha inteira está ruim — por onde
 começar
@@ -126,8 +105,6 @@ entendimento e ação (mandar mensagem).
 - Criativo de Seguidores: mais estético, passa uma vibe — carrega menos informação, o objetivo
 é construir percepção de marca/perfil.
 
-## Página 5
-
 Como aplicar a duplicação
 - Fluxo: campanha → identificar o que está performando bem → descer pro conjunto →
 identificar o conjunto (ou criativo) responsável.
@@ -139,10 +116,6 @@ alterar um elemento ajuda a isolar o que está impactando a performance.
 - Regra prática de troca: dois conjuntos com o mesmo orçamento, um bom e um ruim →
 desativa o ruim, duplica o bom. Resultado: dois conjuntos ativos — o original + uma cópia do
 que estava performando bem, buscando alcançar uma fatia diferente do mesmo público.
-
-← Voltar ao Menu / Índice
-
-## Página 6
 
 03 · Posicionamento ruim ou caro
 
@@ -159,12 +132,10 @@ específico e voltou a ficar barato? Sempre foi barato e só agora ficou caro?
 
 ### SEGUIDORES
 
-
 - Só posicionamento Instagram é permitido — Facebook nunca entra nessa trilha, em
 nenhuma hipótese.
 
 ### MENSAGENS
-
 
 - Sem restrição — os dois posicionamentos podem rodar juntos, e a preferência é sempre
 rodar com ambos.
@@ -178,10 +149,6 @@ Só se aplica em Mensagens (Seguidores já roda só com Instagram)
 desativar o Facebook primeiro.
 - O Instagram raramente é desativado, mesmo ficando caro — é de lá que vêm os leads mais
 qualificados.
-
-← Voltar ao Menu / Índice
-
-## Página 7
 
 04 · Público com performance ruim
 
@@ -221,13 +188,8 @@ manualmente.
 
 ### SEGUIDORES
 
-
 - Nunca usar público aberto — sem segmentação, atrai qualquer categoria de pessoa, o
 oposto do que a campanha de Seguidores precisa.
-← Voltar ao Menu / Índice
-
-## Página 8
-
 05 · Criativo ruim ou caro
 
 Fluxo de solicitação de mídia nova (vale pras duas trilhas)
@@ -256,7 +218,6 @@ agendamento for baixa.
 
 ### SEGUIDORES
 
-
 Teto de custo por seguidor
 - Custo aceitável: R$ 2,70 a R$ 2,80 por seguidor.
 - R$ 3,00 ou mais → ação imediata: desativar o criativo, investigar quais posicionamentos do
@@ -265,12 +226,9 @@ outro público/conjunto.
 
 ### MENSAGENS
 
-
 Teto bem mais alto que o de Seguidores — a mensagem já representa uma conversão mais
 valiosa, porque o lead demonstrou intenção real (o seguidor pode ou não mandar mensagem
 depois).
-
-## Página 9
 
 Faixa de custo por mensagem
 - R$ 8,00 → tolerável, sem necessidade de ação.
@@ -282,10 +240,6 @@ saindo desse criativo, mesmo com custo alto.
 Ação corretiva (nunca só observar)
 - Validar o mesmo criativo em outro público.
 - Fazer variações do criativo e validar no mesmo público.
-
-← Voltar ao Menu / Índice
-
-## Página 10
 
 06 · Autonomia do gestor e cadência de
 otimização
@@ -306,5 +260,3 @@ Não existe regra fixa de dias — mas a conferência é diária
 - O gestor confere a operação todos os dias.
 - Critério da conferência diária: já está caro o suficiente? → desativa, independente do período.
 Ainda não está claro? → deixa validando. Está bom? → não mexe (a não ser que encareça).
-
-← Voltar ao Menu / Índice
