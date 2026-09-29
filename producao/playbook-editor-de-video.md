@@ -1,7 +1,7 @@
 # Playbook do editor de vídeo
 
 {% hint style="info" %}
-**Conteúdo integral convertido para Markdown:** `Playbook_Editor_de_Video.pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
+**Conteúdo integral convertido para Markdown:** `Playbook_Editor_de_Video (1).pdf`. As informações das 13 páginas seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
 Rotina, fluxo de produção, validação de criativos e
@@ -289,7 +289,7 @@ vídeo — para registrar, todos os dias, quais clientes receberam vídeo, quant
 recebeu e em que status cada entrega está. Ela existe para dar visibilidade de volume, de
 cumprimento de meta e de andamento das aprovações.
 
-**Abrir planilha — Controle Design e Vídeo**
+[**Abrir planilha — Controle Design e Vídeo**](https://docs.google.com/spreadsheets/d/1lBkjWafc6nksyveRkivWG2F1agXfAJflGm9cfOO7UqY)
 
 Estrutura do arquivo
 
