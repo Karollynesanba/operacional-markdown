@@ -1,11 +1,12 @@
 # A Metodologia - Case Raquel
 
 {% hint style="info" %}
-**Conteúdo integral convertido para Markdown:** `Metodologia_Case_Raquel.pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
+**Conteúdo integral convertido para Markdown:** `Metodologia_Case_Raquel (1).pdf`. As informações das 14 páginas seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
-INTRODUÇÃO
-Sobre Este Documento
+## Introdução
+
+### Sobre este documento
 
 Este material documenta a metodologia aplicada pela GREAT, usando como referência o
 case da Dra. Raquel — um exemplo real de como persona, Instagram e funil bem alinhados
@@ -35,8 +36,7 @@ etapa do funil — foi pensada para construir essa confiança antes de pedir qua
 A ordem das etapas não é opcional — pular a estruturação do Instagram antes de rodar campanha
 de Mensagens é o erro mais comum e o que mais gera lead frio e descrédito.
 
-### ETAPA 01
-Persona + Localização
+## Etapa 1 — Persona e localização
 
 Antes de pensar em criativo ou campanha, a primeira pergunta é: quem é a paciente ideal
 considerando a região da clínica? Persona, aqui, não é um exercício teórico — é a base que
@@ -68,8 +68,7 @@ job":
 
 ### LUXURY GOODS (RETAIL)               LINGERIE
 
-### ETAPA 02
-Instagram Como Portfólio
+## Etapa 2 — Instagram como portfólio
 
 Em procedimentos íntimos, o Instagram não é um canal de "presença digital" — é o ativo
 que decide se o lead vai confiar o suficiente para chamar no WhatsApp. Sem essa estrutura
@@ -102,8 +101,7 @@ O perfil @_draraquelcastro segue exatamente essa estrutura: presença constante 
 e depois com tarjas, comunicação direta sobre a dor e a solução, e uma identidade visual que
 reforça "Doutora" em cada peça publicada.
 
-### ETAPA 02 · ILUSTRAÇÃO
-Perfil Real da Dra. Raquel
+### Exemplo descrito — Perfil real da Dra. Raquel
 
 O perfil @_draraquelcastro na prática: prova social, stories fixados com resultados, destaques
 de feedbacks e até a participação como colunista no SBT — tudo reforçando credibilidade antes
@@ -111,39 +109,25 @@ mesmo do lead chegar ao WhatsApp.
 
 Perfil do Instagram @_draraquelcastro
 
-### ETAPA 03
-O Funil de Três Frentes
+## Etapa 3 — O funil de três frentes
 
 O funil usa apenas dois tipos de público: o público de persona (de interesses, chamado
 internamente de "público do job") e o público de Remarketing. Cada campanha tem uma
 função específica de qualificar e educar o público.
 
-### PÚBLICO DE REMARKETING                                        PÚBLICO DE PERSONA
-
-### ALCANCE                                                      SEGUIDORES
-
-Roda apenas para Remarketing. Gera                           Usa apenas o público de persona
-familiaridade e impressões, transformando                    (interesses). Sem Remarketing nesta frente.
-os criativos em ponte de apoio para as                       Leva o lead direto para o perfil, para
-outras campanhas — sem deixar o público                      conhecer o portfólio e a doutora.
-quente esfriar.
-
-### PÚBLICO DE PERSONA                                            PÚBLICO DE REMARKETING
-
-### MENSAGENS · NOVOS LEADS                                      MENSAGENS · REMARKETING
-
-Campanha de Mensagens voltada a captar                       Campanha isolada, exclusiva para
-novos leads usando o público de persona.                     Remarketing. Reengaja quem já teve contato
-Leva o lead direto para o WhatsApp.                          com a marca, levando também direto para o
-WhatsApp.
+| Campanha | Público | Função |
+| --- | --- | --- |
+| Alcance | Público de remarketing | Gera familiaridade e impressões, transformando os criativos em ponte de apoio para as outras campanhas, sem deixar o público quente esfriar. |
+| Seguidores | Público de persona (interesses) | Sem remarketing nesta frente. Leva o lead direto para o perfil, para conhecer o portfólio e a doutora. |
+| Mensagens — novos leads | Público de persona | Capta novos leads e os leva diretamente para o WhatsApp. |
+| Mensagens — remarketing | Público de remarketing | Campanha isolada, exclusiva para remarketing, que reengaja quem já teve contato com a marca e leva diretamente para o WhatsApp. |
 
 ### TERMO INTERNO
 
 O público de persona (de interesses) é chamado internamente de "público do job" — é o mesmo
 público em todas as campanhas que não são de Remarketing.
 
-### ETAPA 03 · ILUSTRAÇÃO
-Gerenciador de Anúncios da Raquel
+### Exemplo descrito — Gerenciador de Anúncios da Raquel
 
 As quatro campanhas reais rodando na conta de Raquel — note os nomes batendo exatamente
 com a estrutura descrita: "Reconhecimento/Remarketing Infinito" (Alcance), "Mensagens - Great
@@ -151,8 +135,7 @@ com a estrutura descrita: "Reconhecimento/Remarketing Infinito" (Alcance), "Mens
 
 Gerenciador de Anúncios — conta Raquel Castro
 
-### ETAPA 03 — CONTINUAÇÃO
-Por Que Essa Estrutura Funciona
+### Por que essa estrutura funciona
 
 O funil não é uma sequência rígida de "passo 1, passo 2, passo 3" — é um ecossistema
 onde as quatro campanhas rodam ao mesmo tempo, se reforçando. É essa combinação,
@@ -177,8 +160,7 @@ Raquel não teve sucesso por um criativo isolado ou uma campanha "que performou 
 resultado vem da estrutura completa funcionando em conjunto — e é exatamente essa estrutura
 que deve ser replicada para outros clientes do nicho de estética íntima.
 
-### ETAPA 04
-Estratégia de Conversão
+## Etapa 4 — Estratégia de conversão
 
 Além do funil de anúncios, um dos grandes diferenciadores da Raquel é a forma como ela
 conduz o lead do primeiro contato até o fechamento dentro da clínica. A estratégia é
@@ -210,8 +192,7 @@ momento em que a conversão é muito mais fácil.
 Se o combo fosse passado via WhatsApp, o preço mais elevado assustaria e o lead
 provavelmente não iria até a clínica.
 
-### CONCLUSÃO
-Por Que a Raquel Deu Certo
+## Conclusão — Por que a Raquel deu certo
 
 O case da Raquel não é sobre um anúncio que performou bem — é sobre uma estrutura
 completa, onde cada etapa prepara o terreno para a próxima. É esse encadeamento que
@@ -239,10 +220,9 @@ cliente do nicho não repetir o resultado da Raquel.
 "A estrutura certa, para o público certo, é o que transforma um
 procedimento sensível em um funil de confiança."
 
-### GUIA DE APLICAÇÃO
+## Guia de aplicação
 
-### PARTE 2 · GUIA PRÁTICO
-Passo a Passo de Aplicação
+### Passo a passo de aplicação
 
 Use esta sequência ao aplicar a metodologia em um novo cliente. Cada etapa depende da
 anterior estar pronta, mas o resultado vem do conjunto — é a soma de tudo aplicado junto
@@ -272,8 +252,9 @@ credibilidade pra Raquel e fez os leads chegarem muito mais educados já no perf
 pelo público e começar a saturar, testar novos ângulos. O objetivo é o lead chegar educado no
 WhatsApp — resultado de todo o ecossistema funcionando junto.
 
-### PARTE 2 · VISUALIZAÇÃO DO PROCESSO
-Fluxograma da Metodologia
+## Visualização do processo
+
+### Fluxograma da metodologia
 
 Caminho completo: da definição da persona até o lead chegar qualificado no WhatsApp.
 
@@ -312,40 +293,29 @@ As quatro frentes convergem para o **lead qualificado no WhatsApp**, que já pas
 
 Já passou pelo perfil ou pelos criativos
 
-### PARTE 2 · CHECKLIST DE APLICAÇÃO
-Checklist para o Gestor
+## Checklist de aplicação
+
+### Checklist para o gestor
 
 Use esta lista antes de aplicar a metodologia em qualquer cliente. Começa pelo diagnóstico
 da operação — sem entender as variáveis do cliente, nenhuma decisão de funil ou
 campanha pode ser tomada com segurança.
 
-### 01  DIAGNÓSTICO DA OPERAÇÃO
+### 01 — Diagnóstico da operação
 
-Região mapeada: onde a doutora atua e qual o                      Verba de anúncios levantada: qual o
-perfil do público consumidor de estética nessa                    investimento disponível e é suficiente pra testar
-região.                                                           e ajustar?
+- **Região mapeada:** onde a doutora atua e qual é o perfil do público consumidor de estética nessa região.
+- **Verba de anúncios levantada:** qual é o investimento disponível e se é suficiente para testar e ajustar.
+- **Procedimento definido:** rejuvenescimento, clareamento íntimo ou outro; qual é o foco da operação.
+- **Atendimento avaliado:** ela tem estrutura de atendimento via WhatsApp? Já teve clientes antes?
+- **Instagram avaliado:** os seguidores são reais? Tem prova social? Passa autoridade e confiança ao lead?
+- **Ticket médio definido:** qual é o preço da sessão individual e qual é o valor do combo ou pacote?
+- **Estratégia de conversão definida:** ela oferece o combo presencialmente ou passa tudo pelo WhatsApp?
+- **Autoridade da doutora mapeada:** ela tem credenciais, aparições em mídia e feedbacks públicos?
 
-Procedimento definido: rejuvenescimento,                          Atendimento avaliado: ela tem estrutura de
-clareamento íntimo, ou outro — qual é o foco                      atendimento via WhatsApp? Já teve clientes
-da operação.                                                      antes?
+### 02 — Execução
 
-Instagram avaliado: seguidores são reais? Tem                     Ticket médio definido: qual o preço da sessão
-prova social? Passa autoridade e confiança ao                     individual e qual o valor do combo/pacote?
-lead?                                                             Estratégia de conversão definida: ela oferece
-
-Autoridade da doutora mapeada: ela tem                            combo presencialmente ou passa tudo pelo
-credenciais, aparições em mídia, feedbacks                        WhatsApp?
-públicos?
-
-### 02  EXECUÇÃO
-
-Persona traduzida em interesses específicos no                    Planejamento feito: funis a usar, orçamento por
-gerenciador (público do job).                                     funil, quantidade de posts e criativos por
-Se o orçamento for baixo: cliente consciente de                   período.
-
-que o investimento é primordial, com plano de                     Funis no ar conforme o planejamento, com
-ampliá-lo.                                                        criativos ajustados ao longo do tempo.
-
-Instagram estruturado (prova social,
-antes/depois) e ativo, com postagens
-frequentes e provas de credibilidade.
+- **Persona traduzida em interesses específicos** no gerenciador, formando o “público do job”.
+- **Planejamento feito:** funis a usar, orçamento por funil, quantidade de posts e criativos por período.
+- **Se o orçamento for baixo:** cliente consciente de que o investimento é primordial, com plano de ampliá-lo.
+- **Funis no ar conforme o planejamento,** com criativos ajustados ao longo do tempo.
+- **Instagram estruturado e ativo,** com prova social, antes e depois, postagens frequentes e provas de credibilidade.
