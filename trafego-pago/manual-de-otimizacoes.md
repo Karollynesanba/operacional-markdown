@@ -1,7 +1,7 @@
 # Manual de Otimizações
 
 {% hint style="info" %}
-**Conteúdo integral convertido para Markdown:** `Manual_de_Otimizacoes.pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
+**Conteúdo integral convertido para Markdown:** `Manual_de_Otimizacoes (1).pdf`. As informações das 9 páginas seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
 Rotina, diagnóstico e regras de otimização para campanhas ativas.
