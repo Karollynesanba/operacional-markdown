@@ -1,4 +1,4 @@
-# Playbook do Design
+# Playbook do design
 
 {% hint style="info" %}
 **Conteúdo integral convertido para Markdown:** `Playbook_do_Design_Completo (2).pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.

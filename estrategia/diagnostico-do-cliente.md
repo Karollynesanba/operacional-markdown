@@ -1,4 +1,4 @@
-# Diagnóstico do Cliente
+# Diagnóstico do cliente
 
 {% hint style="info" %}
 **Conteúdo integral convertido para Markdown:** `Diagnostico_do_Cliente.pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.

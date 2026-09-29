@@ -1,4 +1,4 @@
-# Playbook do Editor de Vídeo
+# Playbook do editor de vídeo
 
 {% hint style="info" %}
 **Conteúdo integral convertido para Markdown:** `Playbook_Editor_de_Video.pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.

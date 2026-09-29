@@ -1,4 +1,4 @@
-# Gestão Contínua de Posicionamento
+# Gestão contínua de posicionamento
 
 {% hint style="info" %}
 **Conteúdo integral convertido para Markdown:** `Playbook - Gestão Contínua de Posicionamento (1).pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.

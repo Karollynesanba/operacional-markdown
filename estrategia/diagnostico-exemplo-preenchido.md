@@ -1,4 +1,4 @@
-# Diagnóstico do Cliente - Exemplo Preenchido
+# Exemplo de diagnóstico preenchido
 
 {% hint style="info" %}
 **Conteúdo integral convertido para Markdown:** `Diagnostico_Cliente_Exemplo_Preenchido.pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
