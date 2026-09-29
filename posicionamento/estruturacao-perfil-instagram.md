@@ -1,7 +1,7 @@
 # Estruturação do perfil no Instagram
 
 {% hint style="info" %}
-**Conteúdo integral convertido para Markdown:** `Playbook_Estruturacao_Perfil_Instagram_GREAT (4).pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
+**Conteúdo integral convertido para Markdown:** `Playbook_Estruturacao_Perfil_Instagram_GREAT (4) (1).pdf`. As informações das 9 páginas seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
 ### 01 — VISÃO GERAL
