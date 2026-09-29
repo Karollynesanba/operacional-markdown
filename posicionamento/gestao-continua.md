@@ -1,7 +1,7 @@
 # Gestão contínua de posicionamento
 
 {% hint style="info" %}
-**Conteúdo integral convertido para Markdown:** `Playbook - Gestão Contínua de Posicionamento (1).pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
+**Conteúdo integral convertido para Markdown:** `Playbook - Gestão Contínua de Posicionamento (1) (1).pdf`. As informações das 5 páginas seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
 ### 1. Diagnóstico e Objetivo
