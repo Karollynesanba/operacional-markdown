@@ -1,7 +1,7 @@
 # Playbook de Otimização de Campanha
 
 {% hint style="info" %}
-**Conteúdo integral convertido para Markdown:** `13_Playbook_de_Otimizacao_de_Campanha.pdf`. As informações seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
+**Conteúdo integral convertido para Markdown:** `13_Playbook_de_Otimizacao_de_Campanha (1).pdf`. As informações das 10 páginas seguem a ordem do PDF e foram incorporadas como texto nativo, sem imagens das páginas.
 {% endhint %}
 
 O que fazer quando posicionamento, público ou criativo
@@ -47,7 +47,7 @@ O que o gestor decide sozinho e frequência de otimização
 
 06. Autonomia do gestor e cadência de otimização
 
-01 · Como usar este playbook
+## 01 · Como usar este playbook
 
 Este documento é o 13º da Central do Playbook do Gestor de Tráfego. Ele não trata de como
 configurar uma campanha — isso já está coberto nos documentos anteriores. Aqui o foco é
@@ -64,8 +64,7 @@ conteúdo é dividido em:
 Quando a regra é a mesma pros dois tipos de campanha, ela aparece uma vez só, sem
 separação.
 
-02 · A campanha inteira está ruim — por onde
-começar
+## 02 · A campanha inteira está ruim — por onde começar
 
 Não mexer no que está bom
 Regra número um, vale pra toda a operação: se um conjunto, criativo ou posicionamento
@@ -117,7 +116,7 @@ alterar um elemento ajuda a isolar o que está impactando a performance.
 desativa o ruim, duplica o bom. Resultado: dois conjuntos ativos — o original + uma cópia do
 que estava performando bem, buscando alcançar uma fatia diferente do mesmo público.
 
-03 · Posicionamento ruim ou caro
+## 03 · Posicionamento ruim ou caro
 
 Janela de análise: 2 a 3 dias, com exceção nos primeiros dias quando os sinais já forem claros
 (ver Cap. 02).
@@ -150,7 +149,7 @@ desativar o Facebook primeiro.
 - O Instagram raramente é desativado, mesmo ficando caro — é de lá que vêm os leads mais
 qualificados.
 
-04 · Público com performance ruim
+## 04 · Público com performance ruim
 
 Não existe uma ordem fixa obrigatória entre trocar o criativo ou trocar o público — depende
 do cenário da otimização (ver Cap. 02). Às vezes o público acaba sendo a parte mais fácil de
@@ -190,7 +189,7 @@ manualmente.
 
 - Nunca usar público aberto — sem segmentação, atrai qualquer categoria de pessoa, o
 oposto do que a campanha de Seguidores precisa.
-05 · Criativo ruim ou caro
+## 05 · Criativo ruim ou caro
 
 Fluxo de solicitação de mídia nova (vale pras duas trilhas)
 - Artes: cadência de 2 a 3 por semana, por cliente. Chegam organicamente pelo fluxo de
@@ -241,8 +240,7 @@ Ação corretiva (nunca só observar)
 - Validar o mesmo criativo em outro público.
 - Fazer variações do criativo e validar no mesmo público.
 
-06 · Autonomia do gestor e cadência de
-otimização
+## 06 · Autonomia do gestor e cadência de otimização
 
 Autonomia sobre criativos
 - Artes estáticas: decisão conjunta gestor + cliente. Quando o cliente não dá
